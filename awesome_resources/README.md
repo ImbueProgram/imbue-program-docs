@@ -11,3 +11,4 @@ We found some of them and linked them here for you:
 - [Free Software Books](https://ebookfoundation.github.io/free-programming-books/)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [List of lists](https://github.com/jnv/lists)
+- [Awesome free resources for your startup](https://github.com/jitenbansal/awesome-free-and-essential-products-for-startups)
