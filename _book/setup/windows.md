@@ -1,1 +1,0 @@
-https://github.com/lewagon/setup/blob/master/WINDOWS.md

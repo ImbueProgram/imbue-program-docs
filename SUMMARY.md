@@ -9,6 +9,8 @@
     * [macOs](setup/macOs.md)
     * [windows](setup/windows.md)
 * [Awesome Resources](awesome_resources/README.md)
+* [Interview Resources](interviews/README.md)
+    * [Interview Cheatsheet](interviews/cheatsheet.md)
 * [Full Stack Developer](program/README.md)
     * [Week 1](program/week_1/README.md)
         * [Day 1](program/week_1/day_1/README.md)

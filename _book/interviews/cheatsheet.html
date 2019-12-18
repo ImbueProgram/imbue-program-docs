@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Awesome Resources · GitBook</title>
+        <title>Interview Cheatsheet · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -57,10 +57,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../interviews/" />
+    <link rel="next" href="../program/" />
     
     
-    <link rel="prev" href="../setup/windows.html" />
+    <link rel="prev" href="./" />
     
 
     </head>
@@ -205,9 +205,9 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.4" data-path="./">
+        <li class="chapter " data-level="1.4" data-path="../awesome_resources/">
             
-                <a href="./">
+                <a href="../awesome_resources/">
             
                     
                     Awesome Resources
@@ -218,9 +218,9 @@
             
         </li>
     
-        <li class="chapter " data-level="1.5" data-path="../interviews/">
+        <li class="chapter " data-level="1.5" data-path="./">
             
-                <a href="../interviews/">
+                <a href="./">
             
                     
                     Interview Resources
@@ -232,9 +232,9 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.5.1" data-path="../interviews/cheatsheet.html">
+        <li class="chapter active" data-level="1.5.1" data-path="cheatsheet.html">
             
-                <a href="../interviews/cheatsheet.html">
+                <a href="cheatsheet.html">
             
                     
                     Interview Cheatsheet
@@ -2833,7 +2833,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >Awesome Resources</a>
+        <a href=".." >Interview Cheatsheet</a>
     </h1>
 </div>
 
@@ -2848,24 +2848,331 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="awesome-resources">Awesome Resources</h1>
-<p>Developers around the world collaborate to create amazing open-source lists where they gather different sources of knowledge.</p>
-<p>We found some of them and linked them here for you:</p>
+                                <h1 id="interview-cheatsheet">Interview Cheatsheet</h1>
+<p>This is a straight-to-the-point, distilled list of technical interview Do&apos;s and Don&apos;ts, mainly for algorithmic interviews. Some of these may apply to only phone screens or whiteboard interviews, but most will apply to both. I revise this list before each of my interviews to remind myself of them and eventually internalized all of them to the point I do not have to rely on it anymore.</p>
+<h4 id="legend">Legend</h4>
 <ul>
-<li><a href="https://github.com/sorrycc/awesome-javascript" target="_blank">Awesome JavaScript</a></li>
-<li><a href="https://github.com/sindresorhus/awesome" target="_blank">Awesome</a> a curated list of almost everything.<ul>
-<li><a href="https://github.com/sindresorhus/awesome-nodejs" target="_blank">Awesome Node</a></li>
+<li>&#x2705; = Do</li>
+<li>&#x274C; = Don&apos;t</li>
+<li>&#x26A0;&#xFE0F; = Situational</li>
 </ul>
-</li>
-<li><a href="https://github.com/uhub/awesome-css" target="_blank">Awesome CSS</a></li>
-<li><a href="https://ebookfoundation.github.io/free-programming-books/" target="_blank">Free Software Books</a></li>
-<li><a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">Awesome Awesomeness</a></li>
-<li><a href="https://github.com/jnv/lists" target="_blank">List of lists</a></li>
-<li><a href="https://github.com/jitenbansal/awesome-free-and-essential-products-for-startups" target="_blank">Awesome free resources for your startup</a></li>
-<li><a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank">The book of secret knowledge</a></li>
-<li><a href="https://github.com/sdmg15/Best-websites-a-programmer-should-visit" target="_blank">Websites a programmer should visit</a></li>
-<li><a href="https://github.com/microsoft/api-guidelines" target="_blank">Microsoft REST API guideliness</a></li>
-</ul>
+<h3 id="before-interview">Before interview</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Things</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&#x2705;</td>
+<td>Prepare pen, paper and earphones/headphones.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Find a quiet environment with good Internet connection.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Ensure webcam and audio are working. There were times I had to restart Chrome to get Hangouts to work again.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Request for the option to interview over Hangouts/Skype instead of a phone call; it is easier to send links or text across.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Decide on and be familiar with a programming language.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Familiarize yourself with the coding environment (CoderPad/CodePen). Set up the coding shortcuts, turn on autocompletion, tab spacing, etc.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Prepare answers to the <a href="https://yangshun.github.io/tech-interview-handbook/behavioral-questions" target="_blank">frequently-asked behavioral questions</a> in an interview.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Prepare some <a href="https://yangshun.github.io/tech-interview-handbook/questions-to-ask" target="_blank">questions to ask</a> at the end of the interview.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Dress comfortably. Usually you do not need to wear smart clothes, casual should be fine. T-shirts and jeans are acceptable at most places.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Stay calm and composed.</td>
+</tr>
+<tr>
+<td>&#x26A0;&#xFE0F;</td>
+<td>Turn off the webcam if possible. Most remote interviews will not require video chat and leaving it on only serves as a distraction.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="introduction">Introduction</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Things</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&#x2705;</td>
+<td>Introduce yourself in a few sentences under a minute or two.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Mention interesting points that are relevant to the role you are applying for.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Sound enthusiastic! Speak with a smile and you will naturally sound more engaging.</td>
+</tr>
+<tr>
+<td>&#x274C;</td>
+<td>Spend too long introducing yourself. The more time you spend talking the less time you have to code.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="upon-receiving-the-question">Upon receiving the question</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Things</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&#x2705;</td>
+<td>Repeat the question back at the interviewer.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Clarify any assumptions you made subconsciously. Many questions are under-specified on purpose. E.g. a tree-like diagram could very well be a graph that allows for cycles and a naive recursive solution would not work.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Clarify input format and range. Ask whether input can be assumed to be well-formed and non-null.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Work through a small example to ensure you understood the question.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Explain a high level approach even if it is a brute force one.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Improve upon the approach and optimize. Reduce duplicated work and cache repeated computations.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Think carefully, then state and explain the time and space complexity of your approaches.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>If stuck, think about related problems you have seen before and how they were solved. Check out the <a href="https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction" target="_blank">tips</a> in this section.</td>
+</tr>
+<tr>
+<td>&#x274C;</td>
+<td>Ignore information given to you. Every piece is important.</td>
+</tr>
+<tr>
+<td>&#x274C;</td>
+<td>Jump into coding straightaway.</td>
+</tr>
+<tr>
+<td>&#x274C;</td>
+<td>Start coding without interviewer&apos;s green light.</td>
+</tr>
+<tr>
+<td>&#x274C;</td>
+<td>Appear too unsure about your approach or analysis.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="during-coding">During coding</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Things</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&#x2705;</td>
+<td>Explain what you are coding/typing to the interviewer, what you are trying to achieve.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Practice good coding style. Clear variable names, consistent operator spacing, proper indentation, etc.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Type/write at a reasonable speed.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>As much as possible, write actual compilable code, not pseudocode.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Write in a modular fashion. Extract out chunks of repeated code into functions.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Ask for permission to use trivial functions without having to implement them; saves you some time.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Use the hints given by the interviewer.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Demonstrate mastery of your chosen programming language.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Demonstrate technical knowledge in data structures and algorithms.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>If you are cutting corners in your code, state that out loud to your interviewer and say what you would do in a non-interview setting (no time constraints). E.g., &quot;Under non-interview settings, I would write a regex to parse this string rather than using <code>split()</code> which may not cover all cases.&quot;</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Practice whiteboard space-management skills.</td>
+</tr>
+<tr>
+<td>&#x26A0;&#xFE0F;</td>
+<td>Reasonable defensive coding. Check for nulls, empty collections, etc. Can omit if input validity has been clarified with the interviewer.</td>
+</tr>
+<tr>
+<td>&#x274C;</td>
+<td>Remain quiet the whole time.</td>
+</tr>
+<tr>
+<td>&#x274C;</td>
+<td>Spend too much time writing comments.</td>
+</tr>
+<tr>
+<td>&#x274C;</td>
+<td>Use extremely verbose or single-character (unless they&apos;re common like <code>i</code>, <code>n</code>) variable names.</td>
+</tr>
+<tr>
+<td>&#x274C;</td>
+<td>Copy and paste code without checking (e.g. variables need to be renamed).</td>
+</tr>
+<tr>
+<td>&#x274C;</td>
+<td>Interrupt your interviewer when they are talking. Usually if they speak, they are trying to give you hints or steer you in the right direction.</td>
+</tr>
+<tr>
+<td>&#x274C;</td>
+<td>Write too big (takes up too much space) or too small (illegible) if on a whiteboard.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="after-coding">After coding</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Things</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&#x2705;</td>
+<td>Scan through your code for mistakes as if it was your first time seeing code written by someone else.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Check for off-by-one errors.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Come up with more test cases. Try extreme test cases.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Step through your code with those test cases.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Look out for places where you can refactor.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Reiterate the time and space complexity of your code.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Explain trade-offs and how the code/approach can be improved if given more time.</td>
+</tr>
+<tr>
+<td>&#x274C;</td>
+<td>Immediately announce that you are done coding. Do the above first!</td>
+</tr>
+<tr>
+<td>&#x274C;</td>
+<td>Argue with the interviewer. They may be wrong but that is very unlikely given that they are familiar with the question.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="wrap-up">Wrap up</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Things</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&#x2705;</td>
+<td>Ask questions. More importantly, ask good and engaging questions that are tailored to the company! Pick some questions from <a href="https://yangshun.github.io/tech-interview-handbook/questions-to-ask" target="_blank">this list</a>.</td>
+</tr>
+<tr>
+<td>&#x2705;</td>
+<td>Thank the interviewer.</td>
+</tr>
+<tr>
+<td>&#x26A0;&#xFE0F;</td>
+<td>Ask about your interview performance. It can get awkward.</td>
+</tr>
+<tr>
+<td>&#x274C;</td>
+<td>End the interview without asking any questions.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="post-interview">Post interview</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Things</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&#x2705;</td>
+<td>Record the interview questions and answers down as these can be useful for future reference.</td>
+</tr>
+<tr>
+<td>&#x26A0;&#xFE0F;</td>
+<td>Send a follow up email to your interviewer(s) thanking them for their time and the opportunity to interview with them.</td>
+</tr>
+</tbody>
+</table>
 
                                 
                                 </section>
@@ -2893,12 +3200,12 @@
 
             
                 
-                <a href="../setup/windows.html" class="navigation navigation-prev " aria-label="Previous page: windows">
+                <a href="./" class="navigation navigation-prev " aria-label="Previous page: Interview Resources">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="../interviews/" class="navigation navigation-next " aria-label="Next page: Interview Resources">
+                <a href="../program/" class="navigation navigation-next " aria-label="Next page: Full Stack Developer">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -2909,7 +3216,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Awesome Resources","level":"1.4","depth":1,"next":{"title":"Interview Resources","level":"1.5","depth":1,"path":"interviews/README.md","ref":"interviews/README.md","articles":[{"title":"Interview Cheatsheet","level":"1.5.1","depth":2,"path":"interviews/cheatsheet.md","ref":"interviews/cheatsheet.md","articles":[]}]},"previous":{"title":"windows","level":"1.3.3","depth":2,"path":"setup/windows.md","ref":"setup/windows.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["livereload"],"pluginsConfig":{"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"awesome_resources/README.md","mtime":"2019-12-18T14:04:20.912Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-12-18T14:18:28.849Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Interview Cheatsheet","level":"1.5.1","depth":2,"next":{"title":"Full Stack Developer","level":"1.6","depth":1,"path":"program/README.md","ref":"program/README.md","articles":[{"title":"Week 1","level":"1.6.1","depth":2,"path":"program/week_1/README.md","ref":"program/week_1/README.md","articles":[{"title":"Day 1","level":"1.6.1.1","depth":3,"path":"program/week_1/day_1/README.md","ref":"program/week_1/day_1/README.md","articles":[{"title":"What is a bootcamp?","level":"1.6.1.1.1","depth":4,"path":"program/week_1/day_1/bootcamp.md","ref":"program/week_1/day_1/bootcamp.md","articles":[]},{"title":"The work of a software developer","level":"1.6.1.1.2","depth":4,"path":"program/week_1/day_1/hello_world.md","ref":"program/week_1/day_1/hello_world.md","articles":[]},{"title":"What is agile?","level":"1.6.1.1.3","depth":4,"path":"program/week_1/day_1/what_is_agile.md","ref":"program/week_1/day_1/what_is_agile.md","articles":[]},{"title":"Hello World","level":"1.6.1.1.4","depth":4,"path":"program/week_1/day_1/hello_world.md","ref":"program/week_1/day_1/hello_world.md","articles":[]},{"title":"Links, navigation, and listing items","level":"1.6.1.1.5","depth":4,"path":"program/week_1/day_1/hello_world.md","ref":"program/week_1/day_1/hello_world.md","articles":[]},{"title":"Paragraphs, inputs, textareas","level":"1.6.1.1.6","depth":4,"ref":"","articles":[]},{"title":"A header a footer and images","level":"1.6.1.1.7","depth":4,"path":"program/week_1/day_1/header_footer_images.md","ref":"program/week_1/day_1/header_footer_images.md","articles":[]},{"title":"Pair Programming Exercise: A visual replica of Reddit","level":"1.6.1.1.8","depth":4,"path":"program/week_1/day_1/exercises/replica_reddit.md","ref":"program/week_1/day_1/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Your CV","level":"1.6.1.1.9","depth":4,"path":"program/week_1/day_1/exercises/replica_reddit.md","ref":"program/week_1/day_1/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 2","level":"1.6.1.2","depth":3,"path":"program/week_1/day_2/README.md","ref":"program/week_1/day_2/README.md","articles":[{"title":"CSS: Positioning, Flex layout","level":"1.6.1.2.1","depth":4,"path":"program/week_1/day_2/bootcamp.md","ref":"program/week_1/day_2/bootcamp.md","articles":[]},{"title":"HTML: SEO and semantic html, lists, attributes, good organization ","level":"1.6.1.2.2","depth":4,"path":"program/week_1/day_2/hello_world.md","ref":"program/week_1/day_2/hello_world.md","articles":[]},{"title":"JS: Console","level":"1.6.1.2.3","depth":4,"ref":"","articles":[]},{"title":"JS: Objects, properties and methods","level":"1.6.1.2.4","depth":4,"ref":"","articles":[]},{"title":"JS: functions","level":"1.6.1.2.5","depth":4,"ref":"","articles":[]},{"title":"JS: Event handling clicks in dom","level":"1.6.1.2.6","depth":4,"path":"program/week_1/day_2/what_is_agile.md","ref":"program/week_1/day_2/what_is_agile.md","articles":[]},{"title":"JS: Dom manipulation","level":"1.6.1.2.7","depth":4,"ref":"","articles":[]},{"title":"Pair Programming Exercise: A shopping list with a form","level":"1.6.1.2.8","depth":4,"path":"program/week_1/day_2/exercises/replica_reddit.md","ref":"program/week_1/day_2/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Program a function that changes dom properties when the user interacts with the website","level":"1.6.1.2.9","depth":4,"path":"program/week_1/day_2/exercises/replica_reddit.md","ref":"program/week_1/day_2/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 3","level":"1.6.1.3","depth":3,"path":"program/week_1/day_3/README.md","ref":"program/week_1/day_3/README.md","articles":[{"title":"JS: Arrays","level":"1.6.1.3.1","depth":4,"ref":"","articles":[]},{"title":"JS: Array filter, map, reduce","level":"1.6.1.3.2","depth":4,"ref":"","articles":[]},{"title":"JS: Adding elements to a list","level":"1.6.1.3.3","depth":4,"path":"program/week_1/day_2/hello_world.md","ref":"program/week_1/day_2/hello_world.md","articles":[]},{"title":"HTML: Document fragments","level":"1.6.1.3.4","depth":4,"ref":"","articles":[]},{"title":"Programming: Small functions, clean code","level":"1.6.1.3.5","depth":4,"ref":"","articles":[]},{"title":"Pair Programming Exercise: XXXX","level":"1.6.1.3.6","depth":4,"path":"program/week_1/day_3/exercises/replica_reddit.md","ref":"program/week_1/day_3/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Adding elements to a list in HTML and JS (?)","level":"1.6.1.3.7","depth":4,"path":"program/week_1/day_3/exercises/replica_reddit.md","ref":"program/week_1/day_3/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 4","level":"1.6.1.4","depth":3,"path":"program/week_1/day_4/README.md","ref":"program/week_1/day_4/README.md","articles":[{"title":"CSS: Transitions","level":"1.6.1.4.1","depth":4,"ref":"","articles":[]},{"title":"CSS: Animations","level":"1.6.1.4.2","depth":4,"ref":"","articles":[]},{"title":"JS: Callbacks","level":"1.6.1.4.3","depth":4,"ref":"","articles":[]},{"title":"JS: Asynchronous ajax calls","level":"1.6.1.4.4","depth":4,"ref":"","articles":[]},{"title":"Pair Programming Exercise: XXXX","level":"1.6.1.4.5","depth":4,"path":"program/week_1/day_4/exercises/replica_reddit.md","ref":"program/week_1/day_4/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.1.4.6","depth":4,"path":"program/week_1/day_4/exercises/replica_reddit.md","ref":"program/week_1/day_4/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 5","level":"1.6.1.5","depth":3,"path":"program/week_1/day_5/README.md","ref":"program/week_1/day_5/README.md","articles":[{"title":"HTML: Forms","level":"1.6.1.5.1","depth":4,"ref":"","articles":[]},{"title":"Node: Our first server","level":"1.6.1.5.2","depth":4,"ref":"","articles":[]},{"title":"Node: Receiving our form data","level":"1.6.1.5.3","depth":4,"ref":"","articles":[]},{"title":"Pair Programming Exercise: Create a server and a website and send a form","level":"1.6.1.5.4","depth":4,"path":"program/week_1/day_5/exercises/replica_reddit.md","ref":"program/week_1/day_5/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: A kata JS","level":"1.6.1.5.5","depth":4,"path":"program/week_1/day_5/exercises/replica_reddit.md","ref":"program/week_1/day_5/exercises/replica_reddit.md","articles":[]}]}]},{"title":"Week 2","level":"1.6.2","depth":2,"path":"program/week_2/README.md","ref":"program/week_2/README.md","articles":[{"title":"Day 1","level":"1.6.2.1","depth":3,"path":"program/week_2/day_1/README.md","ref":"program/week_2/day_1/README.md","articles":[{"title":"Pair Programming Exercise: A visual replica of Reddit","level":"1.6.2.1.1","depth":4,"path":"program/week_2/day_1/exercises/replica_reddit.md","ref":"program/week_2/day_1/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Your CV","level":"1.6.2.1.2","depth":4,"path":"program/week_2/day_1/exercises/replica_reddit.md","ref":"program/week_2/day_1/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 2","level":"1.6.2.2","depth":3,"path":"program/week_2/day_2/README.md","ref":"program/week_2/day_2/README.md","articles":[{"title":"Pair Programming Exercise: A shopping list with a form","level":"1.6.2.2.1","depth":4,"path":"program/week_2/day_2/exercises/replica_reddit.md","ref":"program/week_2/day_2/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Program a function that (?)","level":"1.6.2.2.2","depth":4,"path":"program/week_2/day_2/exercises/replica_reddit.md","ref":"program/week_2/day_2/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 3","level":"1.6.2.3","depth":3,"path":"program/week_2/day_3/README.md","ref":"program/week_2/day_3/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.2.3.1","depth":4,"path":"program/week_2/day_3/exercises/replica_reddit.md","ref":"program/week_2/day_3/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.2.3.2","depth":4,"path":"program/week_2/day_3/exercises/replica_reddit.md","ref":"program/week_2/day_3/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 4","level":"1.6.2.4","depth":3,"path":"program/week_2/day_4/README.md","ref":"program/week_2/day_4/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.2.4.1","depth":4,"path":"program/week_2/day_4/exercises/replica_reddit.md","ref":"program/week_2/day_4/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.2.4.2","depth":4,"path":"program/week_2/day_4/exercises/replica_reddit.md","ref":"program/week_2/day_4/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 5","level":"1.6.2.5","depth":3,"path":"program/week_2/day_5/README.md","ref":"program/week_2/day_5/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.2.5.1","depth":4,"path":"program/week_2/day_5/exercises/replica_reddit.md","ref":"program/week_2/day_5/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.2.5.2","depth":4,"path":"program/week_2/day_5/exercises/replica_reddit.md","ref":"program/week_2/day_5/exercises/replica_reddit.md","articles":[]}]}]},{"title":"Week 3","level":"1.6.3","depth":2,"path":"program/week_3/README.md","ref":"program/week_3/README.md","articles":[{"title":"Day 1","level":"1.6.3.1","depth":3,"path":"program/week_3/day_1/README.md","ref":"program/week_3/day_1/README.md","articles":[{"title":"Pair Programming Exercise: A visual replica of Reddit","level":"1.6.3.1.1","depth":4,"path":"program/week_3/day_1/exercises/replica_reddit.md","ref":"program/week_3/day_1/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Your CV","level":"1.6.3.1.2","depth":4,"path":"program/week_3/day_1/exercises/replica_reddit.md","ref":"program/week_3/day_1/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 2","level":"1.6.3.2","depth":3,"path":"program/week_3/day_2/README.md","ref":"program/week_3/day_2/README.md","articles":[{"title":"Pair Programming Exercise: A shopping list with a form","level":"1.6.3.2.1","depth":4,"path":"program/week_3/day_2/exercises/replica_reddit.md","ref":"program/week_3/day_2/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Program a function that (?)","level":"1.6.3.2.2","depth":4,"path":"program/week_3/day_2/exercises/replica_reddit.md","ref":"program/week_3/day_2/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 3","level":"1.6.3.3","depth":3,"path":"program/week_3/day_3/README.md","ref":"program/week_3/day_3/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.3.3.1","depth":4,"path":"program/week_3/day_3/exercises/replica_reddit.md","ref":"program/week_3/day_3/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.3.3.2","depth":4,"path":"program/week_3/day_3/exercises/replica_reddit.md","ref":"program/week_3/day_3/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 4","level":"1.6.3.4","depth":3,"path":"program/week_3/day_4/README.md","ref":"program/week_3/day_4/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.3.4.1","depth":4,"path":"program/week_3/day_4/exercises/replica_reddit.md","ref":"program/week_3/day_4/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.3.4.2","depth":4,"path":"program/week_3/day_4/exercises/replica_reddit.md","ref":"program/week_3/day_4/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 5","level":"1.6.3.5","depth":3,"path":"program/week_3/day_5/README.md","ref":"program/week_3/day_5/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.3.5.1","depth":4,"path":"program/week_3/day_5/exercises/replica_reddit.md","ref":"program/week_3/day_5/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.3.5.2","depth":4,"path":"program/week_3/day_5/exercises/replica_reddit.md","ref":"program/week_3/day_5/exercises/replica_reddit.md","articles":[]}]}]},{"title":"Week 4","level":"1.6.4","depth":2,"path":"program/week_4/README.md","ref":"program/week_4/README.md","articles":[{"title":"Day 1","level":"1.6.4.1","depth":3,"path":"program/week_4/day_1/README.md","ref":"program/week_4/day_1/README.md","articles":[{"title":"Pair Programming Exercise: A visual replica of Reddit","level":"1.6.4.1.1","depth":4,"path":"program/week_4/day_1/exercises/replica_reddit.md","ref":"program/week_4/day_1/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Your CV","level":"1.6.4.1.2","depth":4,"path":"program/week_4/day_1/exercises/replica_reddit.md","ref":"program/week_4/day_1/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 2","level":"1.6.4.2","depth":3,"path":"program/week_4/day_2/README.md","ref":"program/week_4/day_2/README.md","articles":[{"title":"Pair Programming Exercise: A shopping list with a form","level":"1.6.4.2.1","depth":4,"path":"program/week_4/day_2/exercises/replica_reddit.md","ref":"program/week_4/day_2/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Program a function that (?)","level":"1.6.4.2.2","depth":4,"path":"program/week_4/day_2/exercises/replica_reddit.md","ref":"program/week_4/day_2/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 3","level":"1.6.4.3","depth":3,"path":"program/week_4/day_3/README.md","ref":"program/week_4/day_3/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.4.3.1","depth":4,"path":"program/week_4/day_3/exercises/replica_reddit.md","ref":"program/week_4/day_3/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.4.3.2","depth":4,"path":"program/week_4/day_3/exercises/replica_reddit.md","ref":"program/week_4/day_3/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 4","level":"1.6.4.4","depth":3,"path":"program/week_4/day_4/README.md","ref":"program/week_4/day_4/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.4.4.1","depth":4,"path":"program/week_4/day_4/exercises/replica_reddit.md","ref":"program/week_4/day_4/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.4.4.2","depth":4,"path":"program/week_4/day_4/exercises/replica_reddit.md","ref":"program/week_4/day_4/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 5","level":"1.6.4.5","depth":3,"path":"program/week_4/day_5/README.md","ref":"program/week_4/day_5/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.4.5.1","depth":4,"path":"program/week_4/day_5/exercises/replica_reddit.md","ref":"program/week_4/day_5/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.4.5.2","depth":4,"path":"program/week_4/day_5/exercises/replica_reddit.md","ref":"program/week_4/day_5/exercises/replica_reddit.md","articles":[]}]}]},{"title":"Week 5","level":"1.6.5","depth":2,"path":"program/week_5/README.md","ref":"program/week_5/README.md","articles":[{"title":"Day 1","level":"1.6.5.1","depth":3,"path":"program/week_5/day_1/README.md","ref":"program/week_5/day_1/README.md","articles":[{"title":"Pair Programming Exercise: A visual replica of Reddit","level":"1.6.5.1.1","depth":4,"path":"program/week_5/day_1/exercises/replica_reddit.md","ref":"program/week_5/day_1/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Your CV","level":"1.6.5.1.2","depth":4,"path":"program/week_5/day_1/exercises/replica_reddit.md","ref":"program/week_5/day_1/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 2","level":"1.6.5.2","depth":3,"path":"program/week_5/day_2/README.md","ref":"program/week_5/day_2/README.md","articles":[{"title":"Pair Programming Exercise: A shopping list with a form","level":"1.6.5.2.1","depth":4,"path":"program/week_5/day_2/exercises/replica_reddit.md","ref":"program/week_5/day_2/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Program a function that (?)","level":"1.6.5.2.2","depth":4,"path":"program/week_5/day_2/exercises/replica_reddit.md","ref":"program/week_5/day_2/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 3","level":"1.6.5.3","depth":3,"path":"program/week_5/day_3/README.md","ref":"program/week_5/day_3/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.5.3.1","depth":4,"path":"program/week_5/day_3/exercises/replica_reddit.md","ref":"program/week_5/day_3/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.5.3.2","depth":4,"path":"program/week_5/day_3/exercises/replica_reddit.md","ref":"program/week_5/day_3/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 4","level":"1.6.5.4","depth":3,"path":"program/week_5/day_4/README.md","ref":"program/week_5/day_4/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.5.4.1","depth":4,"path":"program/week_5/day_4/exercises/replica_reddit.md","ref":"program/week_5/day_4/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.5.4.2","depth":4,"path":"program/week_5/day_4/exercises/replica_reddit.md","ref":"program/week_5/day_4/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 5","level":"1.6.5.5","depth":3,"path":"program/week_5/day_5/README.md","ref":"program/week_5/day_5/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.5.5.1","depth":4,"path":"program/week_5/day_5/exercises/replica_reddit.md","ref":"program/week_5/day_5/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.5.5.2","depth":4,"path":"program/week_5/day_5/exercises/replica_reddit.md","ref":"program/week_5/day_5/exercises/replica_reddit.md","articles":[]}]}]},{"title":"Week 6","level":"1.6.6","depth":2,"path":"program/week_6/README.md","ref":"program/week_6/README.md","articles":[{"title":"Day 1","level":"1.6.6.1","depth":3,"path":"program/week_6/day_1/README.md","ref":"program/week_6/day_1/README.md","articles":[{"title":"Pair Programming Exercise: A visual replica of Reddit","level":"1.6.6.1.1","depth":4,"path":"program/week_6/day_1/exercises/replica_reddit.md","ref":"program/week_6/day_1/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Your CV","level":"1.6.6.1.2","depth":4,"path":"program/week_6/day_1/exercises/replica_reddit.md","ref":"program/week_6/day_1/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 2","level":"1.6.6.2","depth":3,"path":"program/week_6/day_2/README.md","ref":"program/week_6/day_2/README.md","articles":[{"title":"Pair Programming Exercise: A shopping list with a form","level":"1.6.6.2.1","depth":4,"path":"program/week_6/day_2/exercises/replica_reddit.md","ref":"program/week_6/day_2/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Program a function that (?)","level":"1.6.6.2.2","depth":4,"path":"program/week_6/day_2/exercises/replica_reddit.md","ref":"program/week_6/day_2/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 3","level":"1.6.6.3","depth":3,"path":"program/week_6/day_3/README.md","ref":"program/week_6/day_3/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.6.3.1","depth":4,"path":"program/week_6/day_3/exercises/replica_reddit.md","ref":"program/week_6/day_3/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.6.3.2","depth":4,"path":"program/week_6/day_3/exercises/replica_reddit.md","ref":"program/week_6/day_3/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 4","level":"1.6.6.4","depth":3,"path":"program/week_6/day_4/README.md","ref":"program/week_6/day_4/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.6.4.1","depth":4,"path":"program/week_6/day_4/exercises/replica_reddit.md","ref":"program/week_6/day_4/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.6.4.2","depth":4,"path":"program/week_6/day_4/exercises/replica_reddit.md","ref":"program/week_6/day_4/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 5","level":"1.6.6.5","depth":3,"path":"program/week_6/day_5/README.md","ref":"program/week_6/day_5/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.6.5.1","depth":4,"path":"program/week_6/day_5/exercises/replica_reddit.md","ref":"program/week_6/day_5/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.6.5.2","depth":4,"path":"program/week_6/day_5/exercises/replica_reddit.md","ref":"program/week_6/day_5/exercises/replica_reddit.md","articles":[]}]}]},{"title":"Week 7","level":"1.6.7","depth":2,"path":"program/week_7/README.md","ref":"program/week_7/README.md","articles":[{"title":"Day 1","level":"1.6.7.1","depth":3,"path":"program/week_7/day_1/README.md","ref":"program/week_7/day_1/README.md","articles":[{"title":"Pair Programming Exercise: A visual replica of Reddit","level":"1.6.7.1.1","depth":4,"path":"program/week_7/day_1/exercises/replica_reddit.md","ref":"program/week_7/day_1/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Your CV","level":"1.6.7.1.2","depth":4,"path":"program/week_7/day_1/exercises/replica_reddit.md","ref":"program/week_7/day_1/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 2","level":"1.6.7.2","depth":3,"path":"program/week_7/day_2/README.md","ref":"program/week_7/day_2/README.md","articles":[{"title":"Pair Programming Exercise: A shopping list with a form","level":"1.6.7.2.1","depth":4,"path":"program/week_7/day_2/exercises/replica_reddit.md","ref":"program/week_7/day_2/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Program a function that (?)","level":"1.6.7.2.2","depth":4,"path":"program/week_7/day_2/exercises/replica_reddit.md","ref":"program/week_7/day_2/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 3","level":"1.6.7.3","depth":3,"path":"program/week_7/day_3/README.md","ref":"program/week_7/day_3/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.7.3.1","depth":4,"path":"program/week_7/day_3/exercises/replica_reddit.md","ref":"program/week_7/day_3/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.7.3.2","depth":4,"path":"program/week_7/day_3/exercises/replica_reddit.md","ref":"program/week_7/day_3/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 4","level":"1.6.7.4","depth":3,"path":"program/week_7/day_4/README.md","ref":"program/week_7/day_4/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.7.4.1","depth":4,"path":"program/week_7/day_4/exercises/replica_reddit.md","ref":"program/week_7/day_4/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.7.4.2","depth":4,"path":"program/week_7/day_4/exercises/replica_reddit.md","ref":"program/week_7/day_4/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 5","level":"1.6.7.5","depth":3,"path":"program/week_7/day_5/README.md","ref":"program/week_7/day_5/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.7.5.1","depth":4,"path":"program/week_7/day_5/exercises/replica_reddit.md","ref":"program/week_7/day_5/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.7.5.2","depth":4,"path":"program/week_7/day_5/exercises/replica_reddit.md","ref":"program/week_7/day_5/exercises/replica_reddit.md","articles":[]}]}]},{"title":"Week 8","level":"1.6.8","depth":2,"path":"program/week_8/README.md","ref":"program/week_8/README.md","articles":[{"title":"Day 1","level":"1.6.8.1","depth":3,"path":"program/week_8/day_1/README.md","ref":"program/week_8/day_1/README.md","articles":[{"title":"Pair Programming Exercise: A visual replica of Reddit","level":"1.6.8.1.1","depth":4,"path":"program/week_8/day_1/exercises/replica_reddit.md","ref":"program/week_8/day_1/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Your CV","level":"1.6.8.1.2","depth":4,"path":"program/week_8/day_1/exercises/replica_reddit.md","ref":"program/week_8/day_1/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 2","level":"1.6.8.2","depth":3,"path":"program/week_8/day_2/README.md","ref":"program/week_8/day_2/README.md","articles":[{"title":"Pair Programming Exercise: A shopping list with a form","level":"1.6.8.2.1","depth":4,"path":"program/week_8/day_2/exercises/replica_reddit.md","ref":"program/week_8/day_2/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Program a function that (?)","level":"1.6.8.2.2","depth":4,"path":"program/week_8/day_2/exercises/replica_reddit.md","ref":"program/week_8/day_2/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 3","level":"1.6.8.3","depth":3,"path":"program/week_8/day_3/README.md","ref":"program/week_8/day_3/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.8.3.1","depth":4,"path":"program/week_8/day_3/exercises/replica_reddit.md","ref":"program/week_8/day_3/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.8.3.2","depth":4,"path":"program/week_8/day_3/exercises/replica_reddit.md","ref":"program/week_8/day_3/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 4","level":"1.6.8.4","depth":3,"path":"program/week_8/day_4/README.md","ref":"program/week_8/day_4/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.8.4.1","depth":4,"path":"program/week_8/day_4/exercises/replica_reddit.md","ref":"program/week_8/day_4/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.8.4.2","depth":4,"path":"program/week_8/day_4/exercises/replica_reddit.md","ref":"program/week_8/day_4/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 5","level":"1.6.8.5","depth":3,"path":"program/week_8/day_5/README.md","ref":"program/week_8/day_5/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.8.5.1","depth":4,"path":"program/week_8/day_5/exercises/replica_reddit.md","ref":"program/week_8/day_5/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.8.5.2","depth":4,"path":"program/week_8/day_5/exercises/replica_reddit.md","ref":"program/week_8/day_5/exercises/replica_reddit.md","articles":[]}]}]},{"title":"Week 9","level":"1.6.9","depth":2,"path":"program/week_9/README.md","ref":"program/week_9/README.md","articles":[{"title":"Day 1","level":"1.6.9.1","depth":3,"path":"program/week_9/day_1/README.md","ref":"program/week_9/day_1/README.md","articles":[{"title":"Pair Programming Exercise: A visual replica of Reddit","level":"1.6.9.1.1","depth":4,"path":"program/week_9/day_1/exercises/replica_reddit.md","ref":"program/week_9/day_1/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Your CV","level":"1.6.9.1.2","depth":4,"path":"program/week_9/day_1/exercises/replica_reddit.md","ref":"program/week_9/day_1/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 2","level":"1.6.9.2","depth":3,"path":"program/week_9/day_2/README.md","ref":"program/week_9/day_2/README.md","articles":[{"title":"Pair Programming Exercise: A shopping list with a form","level":"1.6.9.2.1","depth":4,"path":"program/week_9/day_2/exercises/replica_reddit.md","ref":"program/week_9/day_2/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: Program a function that (?)","level":"1.6.9.2.2","depth":4,"path":"program/week_9/day_2/exercises/replica_reddit.md","ref":"program/week_9/day_2/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 3","level":"1.6.9.3","depth":3,"path":"program/week_9/day_3/README.md","ref":"program/week_9/day_3/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.9.3.1","depth":4,"path":"program/week_9/day_3/exercises/replica_reddit.md","ref":"program/week_9/day_3/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.9.3.2","depth":4,"path":"program/week_9/day_3/exercises/replica_reddit.md","ref":"program/week_9/day_3/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 4","level":"1.6.9.4","depth":3,"path":"program/week_9/day_4/README.md","ref":"program/week_9/day_4/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.9.4.1","depth":4,"path":"program/week_9/day_4/exercises/replica_reddit.md","ref":"program/week_9/day_4/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.9.4.2","depth":4,"path":"program/week_9/day_4/exercises/replica_reddit.md","ref":"program/week_9/day_4/exercises/replica_reddit.md","articles":[]}]},{"title":"Day 5","level":"1.6.9.5","depth":3,"path":"program/week_9/day_5/README.md","ref":"program/week_9/day_5/README.md","articles":[{"title":"Pair Programming Exercise: XXXX","level":"1.6.9.5.1","depth":4,"path":"program/week_9/day_5/exercises/replica_reddit.md","ref":"program/week_9/day_5/exercises/replica_reddit.md","articles":[]},{"title":"Solo Exercise: XXXX (?)","level":"1.6.9.5.2","depth":4,"path":"program/week_9/day_5/exercises/replica_reddit.md","ref":"program/week_9/day_5/exercises/replica_reddit.md","articles":[]}]}]}]},"previous":{"title":"Interview Resources","level":"1.5","depth":1,"path":"interviews/README.md","ref":"interviews/README.md","articles":[{"title":"Interview Cheatsheet","level":"1.5.1","depth":2,"path":"interviews/cheatsheet.md","ref":"interviews/cheatsheet.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["livereload"],"pluginsConfig":{"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"interviews/cheatsheet.md","mtime":"2019-12-18T14:22:29.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-12-18T14:18:28.849Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
