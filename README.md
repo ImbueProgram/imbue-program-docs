@@ -15,6 +15,12 @@ gitbook serve
 
 As they are open to the public we get inspiration from other bootcamps:
 
+- PART TIME WEB DEV TRELLO [here](https://trello.com/b/YQw8F4MM/part-time-bootcamp)
+- FRONTEND WEB DEV TRELLO [here](https://trello.com/b/NYvZwwcX/fullstack-bootcamp-1)
+
+* [What is a retrospective](http://materials.ironhack.com/s/SJoGnqxug)
+
+- katas https://www.codewars.com/kata/latest
 - https://github.com/lewagon/teaching
 - https://github.com/lewagon/
 - https://github.com/lewagon/html-css-challenges
