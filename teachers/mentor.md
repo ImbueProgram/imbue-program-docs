@@ -1,4 +1,4 @@
-# Lead Teacher
+# Mentor
 
 Here is a list of guidelines you should follow during a workshop or a lecture.
 

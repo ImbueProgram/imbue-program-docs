@@ -1,8 +1,8 @@
-# TA - Imbue
+# Young Mentor - Imbue
 
-Here is a list of guidelines you should follow during your day as Teaching Assistant.
+Here is a list of guidelines you should follow during your day as Young Mentor
 
-## Rules of the TA Club
+## Rules of the Mentor Club
 
 During your duty, keep in mind these simple rules:
 
@@ -20,11 +20,10 @@ YES, it's okay to say that you don't know everything and that:
 
 * You're alumni of one of the previous batches ;
 * You're here to help them but sometimes you may not be able to answer to all their questions ;
-* Teachers are here for these kind of tricky questions ;
+* Mentors are here for these kind of tricky questions ;
 * You're here because YOU really understand their pain since you've been through the same issues ;
 * You'll be the ONE that will explain more easily tricky concepts because you'll use your own words.
 
-Don't underestimate your value in this bootcamp :)
 
 ## Live-code
 
