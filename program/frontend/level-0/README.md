@@ -21,11 +21,17 @@ HTML is a computer language devised to allow website creation. These websites ca
 2. [HTML Tutorial](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/) 
     - :star: Points 300
 
-# What is JavaScript?
+## What is CSS?
+
+### CSS Links
+1. 
+
+## What is JavaScript?
 
 ### JS Links
 1. [JS Tutorial](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
     - :star: Points 500
+
 
 ## CSS 
 http://flukeout.github.io/
