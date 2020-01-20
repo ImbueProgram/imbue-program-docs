@@ -13,6 +13,8 @@ Things that you will have to learn to pass the level 0:
 
 If you are ready, let's start.
 
+
+
 ## What is HTML?
 HTML is a computer language devised to allow website creation. These websites can then be viewed by anyone else connected to the Internet. It is relatively easy to learn, with the basics being accessible to most people in one sitting; and quite powerful in what it allows you to create. It is constantly undergoing revision and evolution to meet the demands and requirements of the growing Internet audience under the direction of the » W3C, the organisation charged with designing and maintaining the language.
 
@@ -34,4 +36,15 @@ HTML is a computer language devised to allow website creation. These websites ca
 
 
 ## CSS 
+
+
+## Level 0 Tasks
+
+- Create a Pomodoro Application. You may clone and make the web version of this application
+- Create a webpage that uses GitHub Repositories API to fetch and show the top 10 repositories of the current week in a nice responsive format.
+- Create a simple todo list application that allows you to add tasks, mark them complete, edit them and delete them.
+- Create a simple stopwatch where user can start, stop, pause and reset.
+
+Once you are done with this, learn about version control systems, learn the basic usage of Git and create your profile on GitHub
+
 http://flukeout.github.io/
