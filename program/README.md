@@ -32,9 +32,3 @@ Points do not make you level up, only your knowledge. But once you are on a leve
 
 At the beggining of your course the school will have a repository where you will code all your exercises. You will need to fork it and every time you want a mentor to check one of your exercises you will need to create a new pull request from your fork of the repository to the school's one.
 
-
-
-https://github.com/dypsilon/frontend-dev-bookmarks
-https://github.com/diegocard/awesome-html5
-
-https://devdocs.io/

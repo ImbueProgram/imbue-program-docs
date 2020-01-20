@@ -2,10 +2,7 @@
 
 Welcome to the Imbue Program
 
-Here you will find different learning paths:
-- [FrontEnd Developer](/program/frontend/README.md)
-- [UX / UI](/program/ux/README.md)
-- [Mentor](/teachers/README.md)
+To navigate the contents, take a look at the [SUMMARY](SUMMARY.md)
 
 
 ## Quick Start
