@@ -40,6 +40,7 @@ Information about the file that can be made available to the user:
 
 This exercise called 'File Upload' consists on the following requirements:
 - Create a website where users can drag & drop multiple files and submit them.
+    - Hint: You can use [Dropzone](https://www.dropzonejs.com/)
 - Create an API that handles the files requests and stores them.
 - Show the uploaded files in your website and allow to delete them.
 
