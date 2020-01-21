@@ -4,9 +4,9 @@ In general.
 Welcome, this is the path for the generalist software developer. Any knowledge you gather here would be useful independently of your programming language or area of expertice.
 
 ## Basic Knowledge
-- [Logic](logic.md)
-- [Pseudocode](pseudocode.md)
-- [Loops and conditions](loops_conditions.md)
+- [Logic](program/software/logic.md)
+- [Pseudocode](program/software/pseudocode.md)
+- [Loops and conditions](program/software/loops_conditions.md)
 
 ## Best Practices
 
