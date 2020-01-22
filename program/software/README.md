@@ -3,6 +3,8 @@ In general.
 
 Welcome, this is the path for the generalist software developer. Any knowledge you gather here would be useful independently of your programming language or area of expertice.
 
+⭐ If it is the first time you are here, please check the [Getting Started](program/software/getting_started.md) guide ⭐
+
 ## Basic Knowledge
 - [Logic](program/software/logic.md)
 - [Pseudocode](program/software/pseudocode.md)
@@ -44,3 +46,4 @@ Junior (1 to 3 years, Level 1) is one who understands the basics of programming.
 
 ### Freelancing
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4TIvB8zDFio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

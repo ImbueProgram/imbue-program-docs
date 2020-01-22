@@ -1,9 +1,11 @@
-# FrontEnd
+# Full Stack Javascript
 
-Welcome to the FrontEnd path. 
+Welcome to the FullStack path. 
 We are priorizing things you need to learn to be in the market of software developers. 
 
-If you want general knowledge about programming, refer to the [software path](/program/software/README.md)
+If you want general knowledge about programming, Git, Github refer to the [software path](/program/software/README.md) and the [Getting Started Guide](program/software/getting_started.md).
+
+Also, make sure you have completed your [Setup](program/frontend/setup/README.md)
 
 ## Levels
 - [Level 0](program/frontend/level-0/README.md)
@@ -14,9 +16,11 @@ If you want general knowledge about programming, refer to the [software path](/p
 - [CSS](program/frontend/css.md)
 - [Sass and Less](program/frontend/csspreprocessors.md)
 - [Responsive](program/frontend/responsive.md)
+- [JavaScript](program/frontend/js.md)
+- [Node](program/frontend/node.md)
 - [File Upload](program/frontend/file_upload.md)
 
-## External subjects
+## Best Practices
 - [Clean Code in Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ## Roadmap 2020
