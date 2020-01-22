@@ -16,6 +16,9 @@ If you want general knowledge about programming, refer to the [software path](/p
 - [Responsive](program/frontend/responsive.md)
 - [File Upload](program/frontend/file_upload.md)
 
+## External subjects
+- [Clean Code in Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
 ## Roadmap 2020
 
 ![](https://roadmap.sh/roadmaps/frontend.png)
