@@ -25,6 +25,8 @@ If you want to know what commands you can use, take a look to [the bash cheatshe
 
 If you want to learn the basics you can follow the next video tutorial:
 
+Or if you prefer to read, use [this tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oxuRxtrO2Ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Git 
