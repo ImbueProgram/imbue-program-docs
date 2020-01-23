@@ -1,6 +1,6 @@
 <h1>JavaScript</h1>
 
-If you don't remember some JavaScript methods during the course of your study, you can refer to the [javascript cheatsheet]((program/software/cheatsheets/javascript.md))
+If you don't remember some JavaScript methods during the course of your study, you can refer to the [javascript cheatsheet]((program/software/cheatsheets/js.md))
 
 ## Intro
 - 🚀 [JavaScript Intro](https://javascript.info/intro#what-is-javascript)

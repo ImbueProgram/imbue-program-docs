@@ -14,7 +14,7 @@ How computers work "Hardware vs Software"? (basic)
 ## Bash
 Bash is a command processor that typically runs in a text window where the user types commands that cause actions. Bash can also read and execute commands from a file, called a shell script.
 
-If you want to know what commands you can use, take a look to [the bash cheatsheet](program/software/bash.md)
+If you want to know what commands you can use, take a look to [the bash cheatsheet](program/software/cheatsheets/bash.md)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Bash_screenshot.png)
 
