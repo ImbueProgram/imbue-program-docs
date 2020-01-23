@@ -33,8 +33,8 @@ Information about the file that can be made available to the user:
 - A response from the server side
 
 ## Tutorials
-- [A strategy for multiple file uploads in JavaScript](https://medium.com/typecode/a-strategy-for-handling-multiple-file-uploads-using-javascript-eb00a77e15f)
-- [Handling files in Node](http://howtonode.org/really-simple-file-uploads)
+- 🚀 [A strategy for multiple file uploads in JavaScript](https://medium.com/typecode/a-strategy-for-handling-multiple-file-uploads-using-javascript-eb00a77e15f)
+- 🚀 [Handling files in Node](http://howtonode.org/really-simple-file-uploads)
 
 # Exercise: Making a file upload 
 

@@ -26,13 +26,13 @@
 
 
 ## Intro
-- [JavaScript Intro](https://javascript.info/intro#what-is-javascript)
+- 🚀 [JavaScript Intro](https://javascript.info/intro#what-is-javascript)
 
 ## Tutorials
-- [W3Schools](https://www.w3schools.com/js/default.asp)
-- [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [The Modern JS tutorial](https://javascript.info/)
-- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- 🚀 [W3Schools](https://www.w3schools.com/js/default.asp)
+- 🚀 [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- 🚀 [The Modern JS tutorial](https://javascript.info/)
+- 🚀 [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ## Video Tutorials
 - Intro to JS 
