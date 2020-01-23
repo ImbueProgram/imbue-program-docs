@@ -1,29 +1,15 @@
 # Full Stack Javascript
 
-Welcome to the FullStack path. 
-We are priorizing things you need to learn to be in the market of software developers. 
+Welcome to the JavaScript path. One of the most demanded languages in web development. With JavaScript you will be able to:
+- Build awesome [websites](https://reactjs.org/)
+- Create [videogames](https://phaser.io/)
+- [Mobile](https://facebook.github.io/react-native/) applications
+- Control [robotics](https://nodebots.io/) 
+- Digital [art](https://p5js.org/)
 
 If you want general knowledge about programming, Git, Github refer to the [software path](/program/software/README.md) and the [Getting Started Guide](program/software/getting_started.md).
 
 Also, make sure you have completed your [Setup](program/frontend/setup/README.md)
-
-- [Full Stack Javascript](#full-stack-javascript)
-  - [Levels](#levels)
-  - [Subjects](#subjects)
-  - [Best Practices](#best-practices)
-  - [Roadmap 2020](#roadmap-2020)
-  - [2020 Basic ToolBelt:](#2020-basic-toolbelt)
-  - [Advanced Toolbelt](#advanced-toolbelt)
-  - [Most Demanded Technologies in 2020](#most-demanded-technologies-in-2020)
-  - [State of JS 2019](#state-of-js-2019)
-  - [Promising technologies to learn](#promising-technologies-to-learn)
-  - [New Concepts](#new-concepts)
-  - [Useful resources](#useful-resources)
-  - [Other Guides](#other-guides)
-
-## Levels
-- [Level 0](program/frontend/level-0/README.md)
-    - [Exercises](program/frontend/level-0/EXERCISES.md)
 
 ## Subjects 
 - [HTML](program/frontend/html.md)
@@ -37,8 +23,14 @@ Also, make sure you have completed your [Setup](program/frontend/setup/README.md
 - [React-Native](program/frontend/react-native.md)
 - [File Upload](program/frontend/file_upload.md)
 
-## Best Practices
-- [Clean Code in Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+## Exercises by level
+- [Level 0](program/frontend/level-0/README.md)
+- [Level 1](program/frontend/level-0/README.md)
+- [Level 2](program/frontend/level-0/README.md)
+- [Level 3](program/frontend/level-0/README.md)
+- [Level 4](program/frontend/level-0/README.md)
+- [Level 5](program/frontend/level-0/README.md)
+- [Level 6](program/frontend/level-0/README.md)
 
 ## Roadmap 2020
 
@@ -66,6 +58,9 @@ Also, make sure you have completed your [Setup](program/frontend/setup/README.md
 - GraphQL
 - Apollo
 - Typescript
+
+## Best Practices
+- [Clean Code in Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ## Most Demanded Technologies in 2020 
 

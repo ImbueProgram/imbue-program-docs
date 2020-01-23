@@ -1,29 +1,6 @@
 <h1>JavaScript</h1>
 
-- [Intro](#intro)
-- [Tutorials](#tutorials)
-- [Video Tutorials](#video-tutorials)
-- [Guides](#guides)
-- [Booleans](#booleans)
-- [Integers, Floats](#integers-floats)
-- [Strings](#strings)
-- [Conditionals and Loops](#conditionals-and-loops)
-- [Functions](#functions)
-- [Arrays](#arrays)
-- [Objects](#objects)
-- [Arrays & Objects](#arrays--objects)
-- [Arrays - Map, reduce, filter](#arrays---map-reduce-filter)
-- [Arrays - Sort, reverse](#arrays---sort-reverse)
-- [Object Oriented JS](#object-oriented-js)
-- [DOM Manipulation](#dom-manipulation)
-- [Async & Callbacks](#async--callbacks)
-- [Function declarations](#function-declarations)
-- [Contxt & Function invocation](#contxt--function-invocation)
-- [Closures & Scope](#closures--scope)
-- [Value VS Reference and mutable data types](#value-vs-reference-and-mutable-data-types)
-- [Debugging, error handling & JS Hint](#debugging-error-handling--js-hint)
-- [Testing & Jasmine](#testing--jasmine)
-
+If you don't remember some JavaScript methods during the course of your study, you can refer to the [javascript cheatsheet]((program/software/cheatsheets/javascript.md))
 
 ## Intro
 - 🚀 [JavaScript Intro](https://javascript.info/intro#what-is-javascript)

@@ -8,6 +8,14 @@ There are a few things you should have right know:
 - A **student identification number** this ID is personal and unique, it is composed by the school you registered in (for example: `MAD`) and a number (001).
 This identification number will be the name of your exercises repository.
 
+## How to use this material?
+
+You will need to have patience and learn how to self-learn. Here you will find relevant information to develop all of your knowledge, and the mentors will assist you whenever you are stuck with something. 
+
+For example: If you choose the [Javascript path](program/frontend/README.md), you will need to navigate through it's contents and learn each of the subjects.
+The subjects include theory, external references and video tutorials. 
+You can choose the order and the speed of your learning, but you must submit your exercises to level up.
+
 
 ## Point System
 
