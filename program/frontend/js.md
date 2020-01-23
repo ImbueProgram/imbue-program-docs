@@ -3,6 +3,7 @@
 - [Intro](#intro)
 - [Tutorials](#tutorials)
 - [Video Tutorials](#video-tutorials)
+- [Guides](#guides)
 - [Booleans](#booleans)
 - [Integers, Floats](#integers-floats)
 - [Strings](#strings)
@@ -39,6 +40,10 @@
 
 - FreeCode Camp
  <iframe width="560" height="315" src="https://www.youtube.com/embed/PkZNo7MFNFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Guides 
+- [Introduction to Functional Programming with JS](https://www.toptal.com/javascript/functional-programming-javascript)
+
 
 ## Booleans
 
