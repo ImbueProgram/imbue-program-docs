@@ -7,6 +7,12 @@ There are a few things you should have right know:
 - A learning path. When you registered in the school we created a learning path for you, depending on your level and your destination. When you follow the program you will level up on your path and win more points.
 - A **student identification number** this ID is personal and unique, it is composed by the school you registered in (for example: `MAD`) and a number (001).
 This identification number will be the name of your exercises repository.
+- A [slack](https://imbueprogram.slack.com) account for the Imbue Program.
+
+The first thing you will need to do now is to **choose your learning path**.
+Available learning paths are:
+- [Javascript Path](program/frontend/README.md)
+- [General Software](program/software/README.md)
 
 ## How to use this material?
 

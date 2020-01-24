@@ -1,6 +1,8 @@
 # Imbue Program Learning Paths
 
-Welcome to the Imbue Program
+Welcome to the Imbue Program.
+
+If you are a student go to [program](program/README.md).
 
 
 ## Quick Start

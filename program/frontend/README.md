@@ -7,9 +7,16 @@ Welcome to the JavaScript path. One of the most demanded languages in web develo
 - Control [robotics](https://nodebots.io/) 
 - Digital [art](https://p5js.org/)
 
-If you want general knowledge about programming, Git, Github refer to the [software path](/program/software/README.md) and the [Getting Started Guide](program/software/getting_started.md).
+If you want general knowledge about programming, Git, Github refer to the [software path](/program/software/README.md).
 
-Also, make sure you have completed your [Setup](program/frontend/setup/README.md)
+## Getting started:
+Thi first things you will need to do are:
+- Create a [Github account](https://github.io) and refer to the [getting started](program/software/getting_started.md) guide.
+  - In this guide you will learn some **bash** and **git** concepts, which are essentials to software developers.
+- Once you have completed your [setup](program/frontend/setup/setup.md), go to the *tutorials* section in this page, and start by the first levels. 
+- After you learned some basic things you are ready to try doing our [exercises](program/frontend/exercises/README.md)
+
+
 
 ## Subjects 
 - [HTML](program/frontend/html.md)
