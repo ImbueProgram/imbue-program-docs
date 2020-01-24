@@ -1,1 +1,24 @@
-SASS Y LESS (Css PReprocessors)
+# CSS preprocessors
+
+## Sass
+
+Follow this nodeschool tutorial
+
+Open a terminal and type the next command
+```
+npm install -g learn-sass
+```
+
+Then type the next command: `learn-sass`
+
+
+## Sass
+
+Follow this nodeschool tutorial
+
+Open a terminal and type the next command
+```
+npm install -g less-is-more
+```
+
+Then type the next command: `less-is-more`

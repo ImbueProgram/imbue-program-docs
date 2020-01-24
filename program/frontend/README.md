@@ -14,20 +14,30 @@ Thi first things you will need to do are:
 - Create a [Github account](https://github.io) and refer to the [getting started](program/software/getting_started.md) guide.
   - In this guide you will learn some **bash** and **git** concepts, which are essentials to software developers.
 - Once you have completed your [setup](program/frontend/setup/setup.md), go to the *tutorials* section in this page, and start by the first levels. 
+  - The setup is needed for installing tools like `node` and `vscode`. 
 - After you learned some basic things you are ready to try doing our [exercises](program/frontend/exercises/README.md)
 
+## Start Learning!
 
+Open a `terminal` window and type this command and press enter:
+
+```
+npm install -g javascripting
+```
+
+This will install a tutorial in your computer. To launch it type `javascripting` in your terminal and press enter.
 
 ## Subjects 
 - [HTML](program/frontend/html.md)
-- [CSS](program/frontend/css.md)
-- [Sass and Less](program/frontend/csspreprocessors.md)
-- [Responsive](program/frontend/responsive.md)
 - [JavaScript](program/frontend/js.md)
 - [Node](program/frontend/node.md)
+- [CSS](program/frontend/css.md)
+- [Responsive](program/frontend/responsive.md)
+- [Sass and Less](program/frontend/csspreprocessors.md)
 - [React](program/frontend/react.md)
 - [Redux](program/frontend/redux.md)
 - [React-Native](program/frontend/react-native.md)
+- [Mongo](program/backend/mongo.md)
 - [File Upload](program/frontend/file_upload.md)
 
 ## Exercises by level

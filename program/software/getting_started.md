@@ -20,6 +20,10 @@ If you want to know what commands you can use, take a look to [the bash cheatshe
 
 *Screenshot of a bash session*
 
+You can take this nodeschool tutorial to complete your knowledge.
+
+Open a **terminal** and type `npm install -g learnyoubash`, press enter, and later type `learnyoubash`. You will need to have [node](program/backend/node.md) installed.
+
 ## Command Line Interface (CLI)
 > A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor. Operating systems implement a command-line interface in a shell for interactive access to operating system functions or services. Such access was primarily provided to users by computer terminals starting in the mid-1960s, and continued to be used throughout the 1970s and 1980s on VAX/VMS, Unix systems and personal computer systems including DOS, CP/M and Apple DOS.
 

@@ -5,6 +5,78 @@ If you don't remember some JavaScript methods during the course of your study, y
 ## Intro
 - 🚀 [JavaScript Intro](https://javascript.info/intro#what-is-javascript)
 
+## Javascript Basics
+
+Follow this nodeschool tutorial
+
+Open a terminal and type the next command
+```
+npm install -g javascripting
+```
+
+Then type the next command: `javascripting`
+
+## Regex adventure
+*Parse text with regular expressions*
+
+Follow this nodeschool tutorial
+
+Open a terminal and type the next command
+```
+npm install -g regex-adventure
+```
+
+Then type the next command: `regex-adventure`
+
+
+## Javascript prototypes
+*Understanding JavaScript Prototypes*
+
+Follow this nodeschool tutorial
+
+Open a terminal and type the next command
+```
+npm install -g planetproto
+```
+
+Then type the next command: `planetproto`
+
+## Javascript Promises
+*Understanding JavaScript Promises*
+
+Follow this nodeschool tutorial
+
+Open a terminal and type the next command
+```
+npm install -g promise-it-wont-hurt
+```
+
+Then type the next command: `promise-it-wont-hurt`
+
+## Testing
+
+Follow this nodeschool tutorial
+
+Open a terminal and type the next command
+```
+npm install -g test-anything
+```
+
+Then type the next command: `test-anything`
+
+## Javascript Best Practices
+
+Follow this nodeschool tutorial
+
+Open a terminal and type the next command
+```
+npm install -g js-best-practices
+```
+
+Then type the next command: `best-practices`
+
+
+
 ## Tutorials
 - 🚀 [W3Schools](https://www.w3schools.com/js/default.asp)
 - 🚀 [Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
