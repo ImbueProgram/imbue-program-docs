@@ -50,8 +50,8 @@ In human language:
 
 
 ## Resources
-- https://en.wikipedia.org/wiki/Logic
-- https://en.wikipedia.org/wiki/Logic_programming
-- https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Expressions_and_Operators
-- https://en.wikipedia.org/wiki/Logic_gate
-- https://en.wikipedia.org/wiki/Omnipotence_paradox
+- 🚀 https://en.wikipedia.org/wiki/Logic
+- 🚀 https://en.wikipedia.org/wiki/Logic_programming
+- 🚀 https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Expressions_and_Operators
+- 🚀 https://en.wikipedia.org/wiki/Logic_gate
+- 🚀 https://en.wikipedia.org/wiki/Omnipotence_paradox
