@@ -8,21 +8,21 @@ HTML es el lenguaje básico del navegador. Está formado por etiquetas que te pe
 #### Las etiquetas
 Las etiquetas son pequeñas piezas de código que contienen información. Existen más de 100 etiquetas en HTML y cada una cumple una función concreta que aporta diferente valor semántico. Es la forma que tenemos los desarrolladores web de decirle al navegador qué tipo de información estamos construyendo en cada momento y cómo debe ser interpretado.
 
-Aunque más adelante veremos que todas las etiquetas son visualmente personalizables gracias a CSS, es muy importante que demos un buen uso de las etiquetas dependiendo de su finalidad.
+Aunque más adelante veremos que todas las etiquetas son visualmente personalizables gracias a CSS, es muy importante que demos un buen uso de las mismas dependiendo de su finalidad.
 
 La estructura de una etiqueta siempre es igual, salvo alguna pequeña excepción. Todas comienzan con la etiqueta de apertura, seguido del contenido y acabando con la etiqueta de cierre.
 
-La etiqueta de apertura se muestra comenzando con el símbolo **<** *(menor que)* + tipo de etiqueta + símbolo **>** *(mayor que)*
+* La etiqueta de apertura se muestra comenzando con el símbolo `<` *(menor que)* + tipo de etiqueta + símbolo `>` *(mayor que)*. Ejemplo: `<p>`
 
-El contenido siempre se muestra de forma plana, sin necesidad de incorporar símbolos especiales.
+* El contenido siempre se muestra de forma plana, sin necesidad de incorporar símbolos especiales. Ejemplo: `Contenido que quiero mostrar`
 
-La etiqueta de cierre es exactamente igual que la etiqueta de apertura pero, en este caso, añadimos el símbolo símbolo **/** *(slash)*
+* La etiqueta de cierre es exactamente igual que la etiqueta de apertura pero, en este caso, añadimos el símbolo símbolo `/` *(slash)*. Siguiendo el ejemplo de apertura, la etiqueta de cierre quedaría así: `</p>`
 
-Por ejemplo, si queremos mostrar un párrafo (etiqueta `p` en HTML) lo haríamos así:
+Veamos una muestra completa siguiendo los ejemplos de apertura, contenido y cierre de los puntos anteriores, si queremos mostrar un párrafo (etiqueta `p` en HTML) lo haríamos así:
 ```
 <p> Contenido que quiero mostrar </p>
 ```
-Resultando en:
+Resultando en el navegador así:
 > <p> Contenido que quiero mostrar</p>
 
 
