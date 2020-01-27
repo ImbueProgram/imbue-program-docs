@@ -15,5 +15,9 @@ Things that you will have to learn to pass the level 0:
   - Arrays, objects
   - DOM manipulation (adding/removing elements, classes, etc)
   - setTimeout, setInterval, alert
+- Other skills:
+  - What is pair programming?
+  - What is pull request reviewing?
+  - How software teams work?
 
 If you are ready, let's [start](program/frontend/level-0/EXERCISES.md)

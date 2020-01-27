@@ -10,7 +10,7 @@ Things that you will have to learn to pass the level 1:
 - Understanding http requests
   - fetch API
   - ajax
-- What si an API
+- What is an API
   - Basic knowledge
 
 If you are ready, let's [start](program/frontend/level-1/EXERCISES.md)
