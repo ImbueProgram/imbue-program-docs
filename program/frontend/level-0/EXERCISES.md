@@ -59,24 +59,17 @@ Any time you [click](program/frontend/js.md#dom) on one circle, a new one will a
 Circles have an [animation](program/frontend/css.md) that makes them bounce from one side to the screen to the other.
 
 
-
 ## 4 - A todo list (100 points)
 
 
-## Create a HTML and CSS webpage
-- Should be responsive
-- Should have a accesible markdown
-- Should have a good SEO
+# Final Exam (250 points)
+knowledge needed: [HTML, CSS, JS]
 
-## TODO List
-- Should be responsive
-- The user can add and remove items in the TODO list
-- The user can mark the items as completed
-
-## Login Form
-- Should be responsive
-- Should control error states
-
-## Your CV
-- Should be responsive
-- Should have different sections
+- Website: 
+  - Responsive
+  - Displays a list of elements
+  - User can search through the elements using a search bar
+  - The elements are obtained from an API through a fetch request. 
+    - You can use existing APIs or something like [mock api](https://www.mockapi.io/) or [json placeholder](https://jsonplaceholder.typicode.com/)
+  - Elements are inserted on the dom
+  
