@@ -34,6 +34,7 @@ This will install a tutorial in your computer. To launch it type `javascripting`
 - [CSS](program/frontend/css.md)
 - [Responsive](program/frontend/responsive.md)
 - [Sass and Less](program/frontend/csspreprocessors.md)
+- [SEO](program/frontend/seo.md)
 - [React](program/frontend/react.md)
 - [Redux](program/frontend/redux.md)
 - [React-Native](program/frontend/react-native.md)
