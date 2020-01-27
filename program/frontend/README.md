@@ -29,26 +29,27 @@ This will install a tutorial in your computer. To launch it type `javascripting`
 
 ## Subjects 
 - [HTML](program/frontend/html.md)
-- [JavaScript](program/frontend/js.md)
-- [Node](program/backend/node.md)
 - [CSS](program/frontend/css.md)
 - [Responsive](program/frontend/responsive.md)
 - [Sass and Less](program/frontend/csspreprocessors.md)
 - [SEO](program/frontend/seo.md)
+- [JavaScript](program/frontend/js.md)
+- [Node](program/backend/node.md)
 - [React](program/frontend/react.md)
 - [Redux](program/frontend/redux.md)
 - [React-Native](program/frontend/react-native.md)
 - [Mongo](program/backend/mongo.md)
 - [File Upload](program/frontend/file_upload.md)
 
+
 ## Exercises by level
-- [Level 0](program/frontend/level-0/README.md)
-- [Level 1](program/frontend/level-0/README.md)
-- [Level 2](program/frontend/level-0/README.md)
-- [Level 3](program/frontend/level-0/README.md)
-- [Level 4](program/frontend/level-0/README.md)
-- [Level 5](program/frontend/level-0/README.md)
-- [Level 6](program/frontend/level-0/README.md)
+- [Level 0](program/frontend/level-0/EXERCISES.md)
+- [Level 1](program/frontend/level-1/EXERCISES.md)
+- [Level 2](program/frontend/level-2/EXERCISES.md)
+- [Level 3](program/frontend/level-3/EXERCISES.md)
+- [Level 4](program/frontend/level-4/EXERCISES.md)
+- [Level 5](program/frontend/level-5/EXERCISES.md)
+- [Level 6](program/frontend/level-6/EXERCISES.md)
 
 ## Roadmap 2020
 
