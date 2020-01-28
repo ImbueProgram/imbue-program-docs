@@ -54,7 +54,7 @@ Knowledge needed: [JS, HTML, CSS]
 
 In this exercise you are going to create a website (html, css, js), that will display a set of circles made with css.
 
-Any time you [click](program/frontend/js.md#dom) on one circle, a new one will appear on the screen.
+Any time you [click](program/frontend/js/index.md#dom) on one circle, a new one will appear on the screen.
 
 Circles have an [animation](program/frontend/css.md) that makes them bounce from one side to the screen to the other.
 
