@@ -37,6 +37,7 @@ This will install a tutorial in your computer. To launch it type `javascripting`
 - [Node](program/backend/node.md)
 - [React](program/frontend/react.md)
 - [Redux](program/frontend/redux.md)
+- [Webpack](program/frontend/webpack.md)
 - [React-Native](program/frontend/react-native.md)
 - [Mongo](program/backend/mongo.md)
 - [File Upload](program/frontend/file_upload.md)
