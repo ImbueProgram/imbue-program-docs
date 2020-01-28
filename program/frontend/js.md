@@ -94,7 +94,85 @@ Then type the next command: `best-practices`
 - [Introduction to Functional Programming with JS](https://www.toptal.com/javascript/functional-programming-javascript)
 
 
+## Operators
+Logical operators are typically used with Boolean (logical) values. When they are, they return a Boolean value. However, the && and || operators actually return the value of one of the specified operands, so if these operators are used with non-Boolean values, they will return a non-Boolean value.
+
+```javascript
+const a = 3;
+const b = -2;
+
+console.log(a > 0 && b > 0);
+// expected output: false
+
+console.log(a > 0 || b > 0);
+// expected output: true
+
+console.log(!(a > 0 || b > 0));
+// expected output: false
+```
+
+[Read more about operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators)
+
 ## Booleans
+
+In computer science, a Boolean is a logical data type that can have only the values true or false. For example, in JavaScript, Boolean conditionals are often used to decide which sections of code to execute (such as in if statements) or repeat (such as in for loops).
+
+Below is some JavaScript pseudocode (it's not truly executable code) demonstrating this concept.
+
+```javascript
+/* JavaScript if statement */
+if (boolean conditional) {
+   // code to execute if the conditional is true
+}
+
+if (boolean conditional) {
+  console.log("boolean conditional resolved to true");
+} else {
+  console.log("boolean conditional resolved to false");
+}
+
+
+/* JavaScript for loop */
+for (control variable; boolean conditional; counter) {
+  // code to execute repeatedly if the conditional is true
+}
+
+for (var i=0; i < 4; i++) {
+  console.log("I print only when the boolean conditional is true");
+}
+```
+
+### Learning examples
+
+1-  Write down what the following statements will return. Try to figure this out before putting the commands in the chrome console.
+
+```javascript
+2 == "2";
+2 === 2;
+10 % 3;
+10 % 3 === 1;
+true && false;
+false || true;
+true || false;
+```
+
+2- Answer the following questions about this code block:
+
+What should the above code console.log?
+
+Why do we not need to specify `if(isLearning === true)`? Why does `if(isLearning)` work on its own?
+
+```javascript
+var isLearning = true;
+if(isLearning){
+    console.log("Keep it up!");
+} else {
+    console.log("Pretty sure you are learning....");
+}
+```
+
+
+
 
 ## Integers, Floats
 
