@@ -5,10 +5,13 @@ Welcome, this is the path for the generalist software developer. Any knowledge y
 
 ⭐ If it is the first time you are here, please check the [Getting Started](program/software/getting_started.md) guide ⭐
 
+If you want to do some practice after learning your languages, go to [CodeWars](https://www.codewars.com/) and start practicing some Katas and exercises. 
+
 ## Basic Knowledge
 - [Logic](program/software/logic.md)
 - [Pseudocode](program/software/pseudocode.md)
 - [Loops and conditions](program/software/loops_conditions.md)
+- [Katas](program/software/katas.md)
 - [Git](program/software/git.md)
 
 ## General Knowledge
