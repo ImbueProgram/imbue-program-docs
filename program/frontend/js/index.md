@@ -44,7 +44,7 @@ If you don't remember some JavaScript methods during the course of your study, y
   - [Comparison Questions Task](program/frontend/js/02-first-steps/08-comparison/1-comparison-questions/task.md)
   - [Comparison Questions Solution](program/frontend/js/02-first-steps/08-comparison/1-comparison-questions/solution.md)
 
-To continue with the next steps, please refer to the [Moder JS tutorial](https://javascript.info/), which is the source of the current material.
+To continue with the next steps, please refer to the [Modern JS tutorial](https://javascript.info/), which is the source of the current material.
 
 # NodeSchool Tutorials
 
@@ -218,11 +218,104 @@ if(isLearning){
 
 
 
-## Integers, Floats
+## Numbers
+JavaScript has only one type of number. Numbers can be written with or without decimals.
+
+```javascript
+var x = 3.14;    // A number with decimals
+var y = 3;       // A number without decimals
+```
+
+If you add two numbers, the result will be a number:
+
+```javascript
+var x = 10;
+var y = 20;
+var z = x + y;           // z will be 30 (a number)
+```
+
+[More on Numbers](https://www.w3schools.com/js/js_numbers.asp)
+
 
 ## Strings
 
+JavaScript strings are used for storing and manipulating text.
+A JavaScript string is zero or more characters written inside quotes.
+
+```javascript
+var x = "John Doe";
+```
+
+[More on Strings](https://www.w3schools.com/js/js_strings.asp)
+
+
+
 ## Conditionals and Loops
+
+### Conditionals
+Conditional statements are used to perform different actions based on different conditions.
+
+Very often when you write code, you want to perform different actions for different decisions.
+
+You can use conditional statements in your code to do this.
+
+In JavaScript we have the following conditional statements:
+
+- Use `if` to specify a block of code to be executed, if a specified condition is true
+- Use `else` to specify a block of code to be executed, if the same condition is false
+- Use `else if` to specify a new condition to test, if the first condition is false
+- Use `switch` to specify many alternative blocks of code to be executed
+
+- [More on conditionals and examples](https://www.w3schools.com/js/js_if_else.asp)
+
+
+### Loops
+Very often when you write code, you want the same block of code to run a number of times. You can use looping statements in your code to do this.
+
+In JavaScript we have the following looping statements:
+
+- while - loops through a block of code while a condition is true
+- do...while - loops through a block of code once, and then repeats the loop while a condition is true
+- for - run statements a specified number of times
+
+**while**
+
+The while statement will execute a block of code while a condition is true.
+
+```javascript
+
+while (condition)
+{
+    code to be executed
+}
+```
+
+**do...while**
+
+The do...while statement will execute a block of code once, and then it will repeat the loop while a condition is true
+
+
+```javascript
+do
+{
+    code to be executed
+}
+while (condition)
+```
+
+
+**for**
+
+The for statement will execute a block of code a specified number of times
+
+```javascript
+
+for (initialization; condition; increment)
+{
+    code to be executed
+}
+```
+
 
 ## Functions
 
