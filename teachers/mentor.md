@@ -37,3 +37,20 @@ $ gist -p *.js
 ```
 
 This will automatically create a private gist with **all the JavaScript files** in the current folder. The program will give you the gist private URL that you can then share on Slack.
+
+## Reviewing content
+
+Whenever a student submits an exercise you should give early feedback. When you don't have enough time, please say something like: `Received! I will take a look at it ASAP`. 
+
+If you are overloaded with work, please ask the rest of the students to review the other students pull requests.
+
+Reviews should be professional and objective. 
+
+Once the student has finished the expected assignment, ask for a bit more of information with questions like. 
+
+- How would you improve your solution?
+- What are the next steps after this?
+- Have you ever considered doing it in another way? How?
+
+This method serves for encouraging critical thinking.
+

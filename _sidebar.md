@@ -8,7 +8,11 @@
 * [Program](program/README.md)
     * [FullStack JavaScript](program/frontend/README.md)
         * [Setup](program/frontend/setup.md)
+        * [HTML](program/frontend/html.md)
+        * [JS](program/frontend/js/index.md)
     * [Software](program/software/README.md)
+      * [Getting started](program/software/getting_started.md)
+      * CheatSheets
         * [bash cheatsheet](program/software/cheatsheets/bash.md)
         * [javascript cheatsheet](program/software/cheatsheets/js.md)
         * [node cheatsheet](program/software/cheatsheets/node.md)
