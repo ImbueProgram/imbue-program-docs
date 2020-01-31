@@ -12,7 +12,7 @@ npm install -g learn-sass
 Then type the next command: `learn-sass`
 
 
-## Sass
+## Less
 
 Follow this nodeschool tutorial
 
