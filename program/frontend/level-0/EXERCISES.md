@@ -2,7 +2,7 @@
 
 Hello! Welcome to the exercises for the level 0.
 
-To level up you will need to complete the next challenges. Total points required for leveling up: 300
+To level up you will need to complete the next challenges.
 
 ## 0 - For this repository in github to submit your pull request.
 Knowledge needed: [Bash, Git]
