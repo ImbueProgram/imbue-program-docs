@@ -30,10 +30,9 @@ This will install a tutorial in your computer. To launch it type `javascripting`
 ## Subjects 
 - [HTML](program/frontend/html.md)
 - [CSS](program/frontend/css.md)
+- [JavaScript](program/frontend/js/index.md)
 - [Responsive](program/frontend/responsive.md)
 - [Sass and Less](program/frontend/csspreprocessors.md)
-- [SEO](program/frontend/seo.md)
-- [JavaScript](program/frontend/js/index.md)
 - [Node](program/backend/node.md)
 - [React](program/frontend/react.md)
 - [Redux](program/frontend/redux.md)
@@ -41,6 +40,7 @@ This will install a tutorial in your computer. To launch it type `javascripting`
 - [React-Native](program/frontend/react-native.md)
 - [Mongo](program/backend/mongo.md)
 - [File Upload](program/frontend/file_upload.md)
+- [SEO](program/frontend/seo.md)
 
 
 ## Exercises by level

@@ -1,5 +1,10 @@
 # HTML
 
+To build websites, you should know about HTML — the fundamental technology used to define the structure of a webpage. HTML is used to specify whether your web content should be recognized as a paragraph, list, heading, link, image, multimedia player, form, or one of many other available elements or even a new element that you define.
+
+[Learning Pathway MDN](https://developer.mozilla.org/en-US/docs/Learn/Html)
+
+
 ## Fundamentos de HTML
 
 HTML es el lenguaje básico del navegador. Está formado por etiquetas que te permiten construir o referenciar cualquier tipo de contenido.
