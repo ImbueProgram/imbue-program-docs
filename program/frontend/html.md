@@ -39,7 +39,7 @@ La estructura de un archivo HTML es muy sencilla. De momento, quédate con tres 
 Esta es una lista de todas las etiquetas en HTML5 con una breve descripción:
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/dmovVa0jseU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Tu primera línea en HTML
+#### Your first line of HTML
 
 La mejor forma de aprender un nuevo lenguaje, al igual que sucede con un idioma, es poniéndose manos a la obra y practicarlo lo máximo posible.
 
@@ -50,6 +50,28 @@ Abre tu editor de código (si aún no lo has instalado, Sigue [estas instruccion
 
 * Abre el archivo que acabas de crear. Comúnmente, tu sistema operativo tratará de abrirlo desde tu navegador, si no fuera así, abre tu navegador (Google Chrome, Firefox, Edge…), ve a *Arhivo > Abrir archivo…* y selecciónalo.
 
-En este punto, verás una web en blanco sin ningún contenido. A partir de ahora será nuestro lienzo donde empezar a construir. Empecemos:
+En este punto, verás una web en blanco sin ningún contenido. A partir de ahora será nuestro lienzo donde empezar a construir.
 
-Sigue [este tutorial básico de iniciación a HTML]([/program/frontend/setup/macOs.md](https://www.w3schools.com/html/html_basic.asp) "Enlace HTML w3C") de la w3schools, a partir de ahora, será uno de tus grandes referentes para aprender y aclarar dudas.
+## Tutorial
+You can follow [this tutorial of HTML](https://www.w3schools.com/html/html_basic.asp) from w3schools, it will be one good reference to solve your questions. 
+
+
+### NodeSchool
+
+You can also follow this nodeschool tutorial.
+Open a terminal and type the next command
+```
+npm install -g learnyouhtml
+```
+Then type the next command: `learnyouhtml`
+
+
+## DOM Tree
+
+## Importing External Files
+
+## SEO
+
+## Accesibility
+
+## Virtual DOM
