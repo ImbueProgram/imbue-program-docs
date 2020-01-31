@@ -14,6 +14,7 @@ Available learning paths are:
 - [Javascript Path](program/frontend/README.md)
 - [General Software](program/software/README.md)
 
+
 ## How to use this material?
 
 You will need to have patience and learn how to self-learn. Here you will find relevant information to develop all of your knowledge, and the mentors will assist you whenever you are stuck with something. 
@@ -22,6 +23,20 @@ For example: If you choose the [Javascript path](program/frontend/README.md), yo
 The subjects include theory, external references and video tutorials. 
 You can choose the order and the speed of your learning, but you must submit your exercises to level up.
 
+## Learning System
+Main characteristics:
+- Peer to peer
+- PBL (Project based learning)
+- Continous Feedback
+- Mentored
+- Online access
+
+We follow a peer to peer education, our students become teachers to other students, and by doing so the learning becomes faster. PBL (project based learning) approach to education in a 
+
+## Slack Channels
+To communicate with other students and mentors we use [Slack](slack.com).
+Slack is a communication tool that can be used for chats, videocalls and much more, thanks to it's integrations with other platforms.
+Create an account by joining to [Imbue Program Slack](https://imbueprogram.slack.com).
 
 ## Point System
 
