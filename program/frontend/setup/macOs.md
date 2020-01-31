@@ -13,7 +13,7 @@ The following instructions will help you to get ready for the Imbue Javascript p
 
 Open the Terminal (click the magnifying glass icon in the top right corner of your screen and type `Terminal`):
 
-<img src='/images/open-terminal.png'></img>
+<img src='../../../images/open-terminal.png'></img>
 
 Copy-paste the following command in the terminal and hit Enter.
 
@@ -30,7 +30,7 @@ If you'll receive the following message, you can just skip this step and go to n
 Otherwise, it will open a window asking you if you want to install some software. Accept and wait. If it fails, try again the command line above, sometimes the Apple servers are overloaded.
 
 
-<img src='/images/xcode-select-install.png'></img>
+<img src='../../../images/xcode-select-install.png'></img>
 
 While it's downloading, you can go on with configuring your GitHub account, but **stop** before Homebrew. You'll need the command line tools installed for that step.
 
@@ -122,12 +122,12 @@ Now quit the Terminal (`⌘` + `Q`), and restart it.
 You should see something like this:
 
 
-<img src='/images/on-my-zsh.png'></img>
+<img src='../../../images/on-my-zsh.png'></img>
 
 
 On Mac, open `Terminal > Preferences` and set the "Pro" theme as default in `Profiles` (*`Réglages`* in French).
 
-<img src='/images/terminal-pro.png'></img>
+<img src='../../../images/terminal-pro.png'></img>
 
 
 Quit and relaunch the Terminal. It should now have a nice black background, more easy on the eyes.

@@ -62,7 +62,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 Be careful, those commands will ask you to type your password twice. At the end
 your prompt should look like this:
 
-<img src='/images/ubuntu_oh_my_zsh.png'></img>
+<img src='../../../images/ubuntu_oh_my_zsh.png'></img>
 
 If it doesn't, **ask a mentor**.
 
