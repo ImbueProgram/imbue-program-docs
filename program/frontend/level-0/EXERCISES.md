@@ -17,7 +17,22 @@ This is the repository for the Imbue Program, I am doing this course to learn ab
 
 Take a look at the [example repo](https://github.com/imbue-program/MAD-001-exercises)
 
-## 1 - A basic website 
+## 1 - CSS Positioning 
+Knowledge needed: [HTML, CSS]
+
+### Absolute
+Create a website and display a set of elements positioned absolutely one on top of each other:
+
+<img src="/images/cssabsoluteindex.png" >
+
+### Display Flex
+
+Create a website and show some Squares representing different flex aligment and positioning
+
+<img src="/images/flex.png">
+
+
+## 2 - A basic website 
 Knowledge needed: [HTML, CSS]
 Create a folder named `exercise1` and inside of this folder you should create at least this basic structure:
 ```
@@ -28,41 +43,33 @@ Create a folder named `exercise1` and inside of this folder you should create at
 ```
 The website needs to load the `styles.css` file and the `main.js` file. 
 
-In the website you should include important elements like `h1`, `h2`, `p`, and basic [page metadata.](program/frontend/seo.md) 
+In the website you should include important elements like `h1`, `h2`, `p`, and basic page structure. 
+
+For example, you can follow a structure like the following one: 
+
+<img src="/images/simple-web.jpg" />
 
 ### 1b - Responsive 
 Add [media queries](program/frontend/css.md) to make it responsive. It should be visible in mobile and desktop. 
 
-## 2 - CSS Positioning 
-Knowledge needed: [HTML, CSS]
+<img src="/images/responsive.jpg" />
 
-Concepts that should be in this exercise: 
-- Position absolute, relative
-- Flex displays
 
-## 3 - Javascript array sorting 
+## 3 - Javascript Exercises
+
+### Array Sorting
 Knowledge needed: [JS]
 
 Create a `exercise3` folder in your repository, and inside this folder create a `main.js` file.
 Create a `README.md` file inside this repository explaining hot to launch your exercise.
 
 This file should execute a program in node - `node main.js` - that will have to:
-- given an unordered array [1,3,65,2,4,5,19,90] returns an ordered array [1,2,3,4,5,19,64,90] and prints it in console.
+- given an unordered array `[1,3,65,2,4,5,19,90]` returns an ordered array `[1,2,3,4,5,19,64,90]` and prints it in console.
 
-## 4 - Dom manipulation and animations 
-Knowledge needed: [JS, HTML, CSS]
-
-In this exercise you are going to create a website (html, css, js), that will display a set of circles made with css.
-
-Any time you [click](program/frontend/js/index.md#dom) on one circle, a new one will appear on the screen.
-
-Circles have an [animation](program/frontend/css.md) that makes them bounce from one side to the screen to the other.
 
 
 ## 4 - A todo list 
 
-
-# Final Exam 
 knowledge needed: [HTML, CSS, JS]
 
 - Website: 
@@ -72,16 +79,23 @@ knowledge needed: [HTML, CSS, JS]
   - The elements are obtained from an API through a fetch request. 
     - You can use existing APIs or something like [mock api](https://www.mockapi.io/) or [json placeholder](https://jsonplaceholder.typicode.com/)
   - Elements are inserted on the dom
+
+---------------------------------
   
+# Additional Required practices
 
 ## Pair programming
 
-// EXPLICAR COMO ORGANIZARSE y pensar un ejercicio
+In this exercise you need to do a pair programming with another student. First find a student to group with. Whenever you have a slot of one or two hours together, start the exerciste. 
 
+// Exercise to be defined
 
-## Kastas
-// Crearte perfil en codewars, hacer una kata
+## Katas
+
+Create a profile on [Codewars](https://codewars.com) and complete one (or more than one) katas from the collection [Very Beginners](https://www.codewars.com/collections/very-beginners). 
+
+Katas are a very effective way of practicing programming. Remember to keep leveling up with more and more katas.
 
 ## CV: Start building your software CV
-- Podria ser una web
-- Por otro lado, tienen que empezar a comunicarlo en linkedin.
+- Create an account on Linkedin and start preparing your future career
+- Start making your own CV with HTML 

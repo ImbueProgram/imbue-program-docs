@@ -6,7 +6,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 <h1>JavaScript</h1>
 
-If you don't remember some JavaScript methods during the course of your study, you can refer to the [javascript cheatsheet]((program/software/cheatsheets/js.md))
+If you don't remember some JavaScript methods during the course of your study, you can refer to the [javascript cheatsheet](program/software/cheatsheets/js.md)
 
 ## Program
 

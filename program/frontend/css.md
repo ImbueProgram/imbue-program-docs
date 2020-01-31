@@ -17,3 +17,6 @@ Responsive web design is not a program or a JavaScript.
 
 [Responsive tutorial](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
+## Display flex
+
+[A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)

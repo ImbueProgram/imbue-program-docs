@@ -7,9 +7,10 @@
         * [Interview Cheatsheet](interviews/cheatsheet.md)
 * [Program](program/README.md)
     * [FullStack JavaScript](program/frontend/README.md)
-        * [Setup](program/frontend/setup.md)
+        * [Setup](program/frontend/setup/README.md)
         * [HTML](program/frontend/html.md)
         * [JS](program/frontend/js/index.md)
+        * [CSS](program/frontend/css.md)
     * [Software](program/software/README.md)
       * [Getting started](program/software/getting_started.md)
       * CheatSheets

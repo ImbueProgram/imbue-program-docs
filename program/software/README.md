@@ -18,6 +18,15 @@ If you want to do some practice after learning your languages, go to [CodeWars](
 - [Programming Methodologies](program/software/programming_methodologies.md)
 - [Software Career and levels of seniority](program/software/career.md)
 
+## Cheatsheets
+  * [bash cheatsheet](program/software/cheatsheets/bash.md)
+  * [javascript cheatsheet](program/software/cheatsheets/js.md)
+  * [node cheatsheet](program/software/cheatsheets/node.md)
+  * [docker cheatsheet](program/software/cheatsheets/docker.md)
+  * [HTML5 cheatsheet](program/software/cheatsheets/html5.md)
+  * [git cheatsheet](program/software/cheatsheets/git.md)
+  * [react cheatsheet](program/software/cheatsheets/react.md)
+
 ## Refactor
 - 📘[BOOK: Refactoring: Improving the design of existing code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/ref=sr_1_1?crid=30YQYCTG85GV0&keywords=refactoring+improving+the+design+of+existing+code&qid=1579542462&s=books&sprefix=refactor%2Cstripbooks-intl-ship%2C295&sr=1-1)
 Fundamental principles of software 

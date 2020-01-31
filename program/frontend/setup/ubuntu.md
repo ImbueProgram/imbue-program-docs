@@ -1,6 +1,6 @@
 # Setup instructions
 
-The following instructions will help you to get ready for [Imbue](http://www.imbue.es) fullstack bootcamp:
+The following instructions will help you to get ready for [Imbue](http://www.imbue.es) fullstack path:
 
 - Grab a text editor, ideally VSCode
 - Install a package manager
@@ -62,9 +62,9 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 Be careful, those commands will ask you to type your password twice. At the end
 your prompt should look like this:
 
-![](images/ubuntu_oh_my_zsh.png)
+<img src='/images/ubuntu_oh_my_zsh.png'></img>
 
-If it doesn't, **ask a teacher**.
+If it doesn't, **ask a mentor**.
 
 To make this change stick, restart your laptop (or virtual machine):
 
@@ -146,10 +146,10 @@ sudo apt-get install nodejs
 
 
 After installing node.js verify and check the installed version. You can find more details about current version on node.js official website.
+
 ```bash
 node -v 
 ````
-
 
 v13.3.0
 
@@ -233,7 +233,7 @@ echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo s
 
 [Install Slack for Linux (beta)](https://get.slack.help/hc/en-us/articles/212924728-Slack-for-Linux-beta-).
 
-Launch the app and sign in to `imbue-program` organization.
+Launch the app and sign in to `imbueprogram` organization.
 
 Make sure you upload a picture there.
 
