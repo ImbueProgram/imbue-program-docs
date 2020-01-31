@@ -46,3 +46,8 @@ If you want to know more about git, take a look into our [git page](program/soft
 > GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x0EYpi38Yp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Slack
+
+Slack is a communication tool that can be used for chats, videocalls and much more, thanks to it's integrations with other platforms.
+Create an account by joining to [Imbue Program Slack](https://imbueprogram.slack.com)
