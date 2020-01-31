@@ -23,13 +23,13 @@ Knowledge needed: [HTML, CSS]
 ### Absolute
 Create a website and display a set of elements positioned absolutely one on top of each other:
 
-<img src="../../../images/cssabsoluteindex.png" >
+<img src="https://imbueprogram.github.io/imbue-program-docs/images/cssabsoluteindex.png" >
 
 ### Display Flex
 
 Create a website and show some Squares representing different flex aligment and positioning
 
-<img src="../../../images/flex.png">
+<img src="https://imbueprogram.github.io/imbue-program-docs/images/flex.png">
 
 
 ## 2 - A basic website 
@@ -47,12 +47,12 @@ In the website you should include important elements like `h1`, `h2`, `p`, and b
 
 For example, you can follow a structure like the following one: 
 
-<img src="../../../images/simple-web.jpg" />
+<img src="https://imbueprogram.github.io/imbue-program-docs/images/simple-web.jpg" />
 
 ### 1b - Responsive 
 Add [media queries](program/frontend/css.md) to make it responsive. It should be visible in mobile and desktop. 
 
-<img src="../../../images/responsive.jpg" />
+<img src="https://imbueprogram.github.io/imbue-program-docs/images/responsive.jpg" />
 
 
 ## 3 - Javascript Exercises
