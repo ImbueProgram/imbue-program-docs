@@ -4,21 +4,40 @@ Hello! Welcome to the exercises for the level 0.
 
 To level up you will need to complete the next challenges.
 
+
 ## 0 - For this repository in github to submit your pull request.
 Knowledge needed: [Bash, Git]
 
-Fork [this repository](https://github.com/imbue-program/MAD-001-exercises) and submit a [pull request](programs/software/git.md) with your student code as a name, and send it to your mentor. 
-You will need to edit the `README.md` file with a description about what course are you doing and why. 
+First, accept the Classroom challenge: [here](https://classroom.github.com/a/9zy1VXK8)
+
+<img src="https://imbueprogram.github.io/imbue-program-docs/images/classroomassignment.png" >
+
+Once you accepted the invitation you will be redirected to a screen like this:
+
+<img src="https://imbueprogram.github.io/imbue-program-docs/images/classroomrepo.png" >
+
+If you click on the link of the repository you will be redirected to the repository page:
+
+<img src="https://imbueprogram.github.io/imbue-program-docs/images/classroomrepo2.png" >
+
+Now [clone](program/software/git.md) the repository and start your exercises. First, create a `README.md` file with a description about what course are you doing and why. 
+
 Add a little info about yourself:
 
 ```
 This is the repository for the Imbue Program, I am doing this course to learn about HTML, CSS, JS.
 ```
 
-Take a look at the [example repo](https://github.com/imbue-program/MAD-001-exercises)
+Take a look at the [example repo](https://github.com/imbue-program/MAD-001-exercises).
+
+Once you push the code it will be available for your mentor to review. Please notify your mentor once you completed the assignments.
+
+The rest of the exercises will go inside different folders `exercise-1` , `exercise-2` and so on.
 
 ## 1 - CSS Positioning 
 Knowledge needed: [HTML, CSS]
+
+Create a folder `exercise-1` in your assignment.
 
 ### Absolute
 Create a website and display a set of elements positioned absolutely one on top of each other:
@@ -34,7 +53,7 @@ Create a website and show some Squares representing different flex aligment and 
 
 ## 2 - A basic website 
 Knowledge needed: [HTML, CSS]
-Create a folder named `exercise1` and inside of this folder you should create at least this basic structure:
+Create a folder named `exercise-2` and inside of this folder you should create at least this basic structure:
 ```
 -exercise1
   - index.html
@@ -60,7 +79,7 @@ Add [media queries](program/frontend/css.md) to make it responsive. It should be
 ### Array Sorting
 Knowledge needed: [JS]
 
-Create a `exercise3` folder in your repository, and inside this folder create a `main.js` file.
+Create a `exercise-3` folder in your repository, and inside this folder create a `main.js` file.
 Create a `README.md` file inside this repository explaining hot to launch your exercise.
 
 This file should execute a program in node - `node main.js` - that will have to:
@@ -70,6 +89,7 @@ This file should execute a program in node - `node main.js` - that will have to:
 
 ## 4 - A todo list 
 
+Create a folder `exercise-4` in your assignment.
 knowledge needed: [HTML, CSS, JS]
 
 - Website: 
