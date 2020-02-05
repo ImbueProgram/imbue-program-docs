@@ -54,6 +54,8 @@ Watch this video
 
 ## Roadmap 2020
 
+This is the Roadmap of knowledge you need to acquire to become a FullStack JavaScript developer.
+
 ![](https://roadmap.sh/roadmaps/frontend.png)
 
 ## 2020 Basic ToolBelt:

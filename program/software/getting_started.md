@@ -11,6 +11,20 @@ Software developers in their day-to-day work need to use some tools. These tools
 How computers work "Hardware vs Software"? (basic)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xnyFYiK2rSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+How websites work?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D8c4JZW73cM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+How the internet works? (for developers)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4S8zfLdLgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+What is HTTP? 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4_-KdOLZWLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+What is a DNS? 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HsQOWfc3Wic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ## Bash
 Bash is a command processor that typically runs in a text window where the user types commands that cause actions. Bash can also read and execute commands from a file, called a shell script.
 
