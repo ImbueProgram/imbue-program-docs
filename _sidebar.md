@@ -14,5 +14,6 @@
         * [Exercises to level up](program/frontend/exercises.md)
     * [Software](program/software/README.md)
       * [Getting started](program/software/getting_started.md)
+      * [Git](program/software/git.md)
       * [CheatSheets](program/software/cheatsheets/README.md)
     
