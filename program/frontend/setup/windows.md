@@ -29,7 +29,12 @@ Follow the installation steps and you are done!
 
 Go to the [git download page](https://git-scm.com/downloads) and download and install the version for Windows.
 
-With git, VS Code and Node, you are ready to start coding. 
+
+
+**With git, VS Code and Node, you are ready to start coding.**
+
+--------
+
 
 ## Installing Ubuntu
 
