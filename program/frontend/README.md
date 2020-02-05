@@ -11,6 +11,13 @@ If you want general knowledge about programming, Git, Github refer to the [softw
 
 ## Getting started:
 
+To start coding you need the following:
+- Basic understanding of what a [CLI]((https://www.w3schools.com/whatis/whatis_cli.asp)) is and how it works
+- Basic tooling like: A [code editor](https://code.visualstudio.com/download), node, a web browser
+- [Git](http://github.com/) is a MUST to start coding with good practices
+
+If you don't meet those requirements, continue with the getting started page, else, go directly to the [setup](program/frontend/setup/README.md) page and install whatever you are missing.
+
 The first things you will need to do are:
 - Create a [Github account](https://github.io) and refer to the [getting started](program/software/getting_started.md) guide.
   - In this guide you will learn some **bash** and **git** concepts, which are essentials to software developers.
