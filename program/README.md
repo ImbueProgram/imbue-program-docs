@@ -4,16 +4,11 @@ Welcome to the Imbue Program
 
 There are a few things you should have right know:
 - A mentor that will help you go trhough your choosen paths, each program has different mentors, so if you choose to start a new program let the school know about it.
-- A learning path. When you registered in the school we created a learning path for you, depending on your level and your destination. When you follow the program you will level up on your path and win more points.
-- A **student identification number** this ID is personal and unique, it is composed by the school you registered in (for example: `MAD`) and a number (001).
-This identification number will be the name of your exercises repository.
-- A [slack](https://imbueprogram.slack.com) account for the Imbue Program.
+- A learning path. When you registered in the school we created a learning path for you, depending on your level and your destination. 
+  - Current available paths are: [Javascript Path](program/frontend/README.md)
+- A [slack](https://imbueprogram.slack.com) account for the Imbue Program. If you need to remember the slack URL, is this one: https://imbueprogram.slack.com
 
-The first thing you will need to do now is to **choose your learning path**.
-Available learning paths are:
-- [Javascript Path](program/frontend/README.md)
-- [General Software](program/software/README.md)
-
+You can watch this video to understand how the school works: //TODO: FALTA INTRODUCIR ESTE VIDEO
 
 ## How to use this material?
 
@@ -23,15 +18,22 @@ For example: If you choose the [Javascript path](program/frontend/README.md), yo
 The subjects include theory, external references and video tutorials. 
 You can choose the order and the speed of your learning, but you must submit your exercises to level up.
 
+## Helping other students
+When you learn something or find difficulties with the material, we encourage you that you share your knowledge with other students. This helps the community to move forward and helps the school to improve the learning material. 
+
 ## Learning System
 Main characteristics:
 - Peer to peer
+  - Help other students and get help from them. Share the contents you create with the community and make it grow.
 - PBL (Project based learning)
+  - You will work on different projects to practice and develop your skills.
 - Continous Feedback
+  - Give feedback to the school to improve the system. Receive feedback from the mentors on your work.
 - Mentored
+  - Before asking a mentor, try asking 3 other students. But once you need serious help mentors will be there for you.
+  - From time to time we make online mentorships where you can join and attend a guided lesson.
 - Online access
-
-We follow a peer to peer education, our students become teachers to other students, and by doing so the learning becomes faster. PBL (project based learning) approach to education in a 
+  - You can access any time, anywhere. You just need your laptop to work on the exercises and tutorials.
 
 ## Slack Channels
 To communicate with other students and mentors we use [Slack](slack.com).
@@ -59,5 +61,7 @@ Points do not make you level up, only your knowledge. But once you are on a leve
 
 ## How to submit my assignments? 
 
-At the beggining of your course the school will have a repository where you will code all your exercises. You will need to fork it and every time you want a mentor to check one of your exercises you will need to create a new pull request from your fork of the repository to the school's one.
+For each level there is an invitation to join the Github Classroom assignment. You need to accept those assignments and submit your exercises by sending the code to your repository.
+
+
 

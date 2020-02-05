@@ -1,4 +1,4 @@
-* [Contributing](README.md)
+* [Contributing](CONTRIBUTING.md)
 * [For Mentors](teachers/README.md)
     * [Mentor](teachers/mentor.md)
     * [Mentor Assistant](teachers/mentor_assistant.md)
