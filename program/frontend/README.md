@@ -10,22 +10,22 @@ Welcome to the JavaScript path. One of the most demanded languages in web develo
 If you want general knowledge about programming, Git, Github refer to the [software path](/program/software/README.md).
 
 ## Getting started:
-Thi first things you will need to do are:
+
+The first things you will need to do are:
 - Create a [Github account](https://github.io) and refer to the [getting started](program/software/getting_started.md) guide.
   - In this guide you will learn some **bash** and **git** concepts, which are essentials to software developers.
-- Once you have completed your [setup](program/frontend/setup/setup.md), go to the *tutorials* section in this page, and start by the first levels. 
-  - The setup is needed for installing tools like `node` and `vscode`. 
+- Once you have completed your [setup](program/frontend/setup/README.md), go to the *tutorials* section in this page, and start by the first levels. 
+  - The setup is needed for installing tools like `node`, `git` and `vscode`. 
+- Start by learning HTML and CSS. 
+  - Later move to JS.
 - After you learned some basic things you are ready to try doing our [exercises](program/frontend/exercises/README.md)
 
-## Start Learning!
+But first of all...
 
-Open a `terminal` window and type this command and press enter:
+Watch this video
 
-```
-npm install -g javascripting
-```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gT0Lh1eYk78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This will install a tutorial in your computer. To launch it type `javascripting` in your terminal and press enter.
 
 ## Subjects 
 - [HTML](program/frontend/html.md)
