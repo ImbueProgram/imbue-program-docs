@@ -24,6 +24,16 @@ What is a DNS?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HsQOWfc3Wic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+## Command Line Interface (CLI)
+> A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor. Operating systems implement a command-line interface in a shell for interactive access to operating system functions or services. Such access was primarily provided to users by computer terminals starting in the mid-1960s, and continued to be used throughout the 1970s and 1980s on VAX/VMS, Unix systems and personal computer systems including DOS, CP/M and Apple DOS.
+
+For a brief introduction read [this guide](https://www.w3schools.com/whatis/whatis_cli.asp)
+If you want to learn the basics you can follow the next video tutorial:
+
+Or if you prefer to read, use [this tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oxuRxtrO2Ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Bash
 Bash is a command processor that typically runs in a text window where the user types commands that cause actions. Bash can also read and execute commands from a file, called a shell script.
@@ -37,15 +47,6 @@ If you want to know what commands you can use, take a look to [the bash cheatshe
 You can take this nodeschool tutorial to complete your knowledge.
 
 Open a **terminal** and type `npm install -g learnyoubash`, press enter, and later type `learnyoubash`. You will need to have [node](program/backend/node.md) installed.
-
-## Command Line Interface (CLI)
-> A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor. Operating systems implement a command-line interface in a shell for interactive access to operating system functions or services. Such access was primarily provided to users by computer terminals starting in the mid-1960s, and continued to be used throughout the 1970s and 1980s on VAX/VMS, Unix systems and personal computer systems including DOS, CP/M and Apple DOS.
-
-If you want to learn the basics you can follow the next video tutorial:
-
-Or if you prefer to read, use [this tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oxuRxtrO2Ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Git 
 
