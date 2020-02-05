@@ -133,6 +133,9 @@ Then type the next command: `best-practices`
 - FreeCode Camp
  <iframe width="560" height="315" src="https://www.youtube.com/embed/PkZNo7MFNFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+ - 2011 - The Boston intro to JS
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/yQaAGmHNn9s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Guides 
 - [Introduction to Functional Programming with JS](https://www.toptal.com/javascript/functional-programming-javascript)
 
