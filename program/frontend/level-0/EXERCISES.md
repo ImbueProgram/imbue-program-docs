@@ -68,37 +68,70 @@ For example, you can follow a structure like the following one:
 
 <img src="https://imbueprogram.github.io/imbue-program-docs/images/simple-web.jpg" />
 
-### 1b - Responsive 
+### 2b - Responsive 
 Add [media queries](program/frontend/css.md) to make it responsive. It should be visible in mobile and desktop. 
 
 <img src="https://imbueprogram.github.io/imbue-program-docs/images/responsive.jpg" />
 
 
 ## 3 - Javascript Exercises
+Create a `exercise-3` folder in your repository, inside this repository create a javascript file for each exercise.
+
+### String replacement
+
+Create a function called `replaceString` that receives two arguments, one string and one replacement string. The values you need to replace are the `xxx`from the first string with the second string values. For example:
+
+```javascript
+const result = replaceString('abc-xxx-3424-xxx-akgp', 'MMM')
+
+// result should be 'abc-MMM-3424-MMM-akgp'
+```
+
+### A pyramid!
+
+Create a function in javascript that prints a pyramid like this one, each row represents a level of the pyramid.
+
+```
+#
+##
+###
+####
+```
+
+The function should receive an argument representing the levels of the pyramid. For example `createPyramid(3)` will print a pyramid with 3 levels, `createPyramid(5)` will print a pyramid with 5 levels.
 
 ### Array Sorting
-Knowledge needed: [JS]
+Create a function called `sortArray`, this function receives an array as an argument. Given an unordered array `[1,3,65,2,4,5,19,90]` this function returns an ordered array `[1,2,3,4,5,19,64,90]`.
 
-Create a `exercise-3` folder in your repository, and inside this folder create a `main.js` file.
-Create a `README.md` file inside this repository explaining hot to launch your exercise.
-
-This file should execute a program in node - `node main.js` - that will have to:
-- given an unordered array `[1,3,65,2,4,5,19,90]` returns an ordered array `[1,2,3,4,5,19,64,90]` and prints it in console.
+For examle `sortArray([6,4,1,7])` returns `[1,4,6,7]`
 
 
+### Array filling
 
-## 4 - A todo list 
+Create a function called `fillArray` that receives a ordered array and fills the missing numbers.  
+For example `fillArray([1, 4, 6])` returns `[1,2,3,4,5,6]`. 
 
-Create a folder `exercise-4` in your assignment.
+## 4 DOM Manipulation
+
+Create a basic website with HTML and add a `main.js` javascript file . 
+The website will have 3 squares, like the ones from Exercise 1. Once the user clicks on a square, it will be deleted from the website, leaving the other squares.
+
+
+## 5 - A todo list 
+
+Create a folder `exercise-5` in your assignment.
 knowledge needed: [HTML, CSS, JS]
 
 - Website: 
-  - Responsive
-  - Displays a list of elements
-  - User can search through the elements using a search bar
-  - The elements are obtained from an API through a fetch request. 
-    - You can use existing APIs or something like [mock api](https://www.mockapi.io/) or [json placeholder](https://jsonplaceholder.typicode.com/)
-  - Elements are inserted on the dom
+  - Displays a list of elements that represent a task list
+
+<img src="https://imbueprogram.github.io/imbue-program-docs/images/todolist.png" />
+
+
+  - User can search the elements using a search bar
+  - User can mark elements as completed
+  - User can add new elements to the list
+  - User can mark all the items as completed
 
 ---------------------------------
   
