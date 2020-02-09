@@ -99,7 +99,7 @@ Related to `other/unordered_stuff.txt`:
 
 ## Other Paths
 
-Now you know what is a path and how it looks like, you will realise there are other places where you can find them. For example in websites, when you type in: `www.domain.com/contact`.  Its an absolute path where the domain would act as root (instead of `C:/`) and the **/contact** would be _like_ a file inside it.
+Now you know what is a path and how it looks like, you will realise there are other places where you can find them. For example in websites, when you type in: `www.domain.com/contact`.  Its an absolute path where the domain would act as root (instead of `C:/`) and the **/contact** would be _like_ a file inside it. Anyway, we will explain more about web paths (URL's) in next chapters. 
 
 ## If you didn't understand everything
 

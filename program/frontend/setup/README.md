@@ -17,6 +17,7 @@ We will guide you to install the following:
 - Git
 - Docker
 - Slack
+- Google Chrome
 
 If you already got them installed, continue with your learning path. If not, just start the guided process from the Getting Started section. Further on you will need to install other programs like MongoDB but we will o that later.
 
