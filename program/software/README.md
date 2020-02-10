@@ -18,6 +18,9 @@ If you want to do some practice after learning your languages, go to [CodeWars](
 - [Programming Methodologies](program/software/programming_methodologies.md)
 - [Software Career and levels of seniority](program/software/career.md)
 
+## Architecture, technologies
+- [Serverless](program/software/serverless.md)
+
 ## Cheatsheets
   * [bash cheatsheet](program/software/cheatsheets/bash.md)
   * [javascript cheatsheet](program/software/cheatsheets/js.md)
