@@ -4,40 +4,17 @@ Hello! Welcome to the exercises for the level 0.
 
 To level up you will need to complete the next challenges.
 
-
-## 0 - For this repository in github to submit your pull request.
-Knowledge needed: [Bash, Git]
-
-First, accept the Classroom challenge: [here](https://classroom.github.com/a/9zy1VXK8)
-
-<img src="https://imbueprogram.github.io/imbue-program-docs/images/classroomassignment.png" >
-
-Once you accepted the invitation you will be redirected to a screen like this:
-
-<img src="https://imbueprogram.github.io/imbue-program-docs/images/classroomrepo.png" >
-
-If you click on the link of the repository you will be redirected to the repository page:
-
-<img src="https://imbueprogram.github.io/imbue-program-docs/images/classroomrepo2.png" >
-
-Now [clone](program/software/git.md) the repository and start your exercises. First, create a `README.md` file with a description about what course are you doing and why. 
-
-Add a little info about yourself:
-
-```
-This is the repository for the Imbue Program, I am doing this course to learn about HTML, CSS, JS.
-```
-
-Take a look at the [example repo](https://github.com/imbue-program/MAD-001-exercises).
-
-Once you push the code it will be available for your mentor to review. Please notify your mentor once you completed the assignments.
-
-The rest of the exercises will go inside different folders `exercise-1` , `exercise-2` and so on.
+To submit your exercises send a repl.it or a codepen to the mentors. 
 
 ## 1 - CSS Positioning 
 Knowledge needed: [HTML, CSS]
 
-Create a folder `exercise-1` in your assignment.
+Create a basic website: 
+
+```
+- index.html
+- styles.css
+```
 
 ### Absolute
 Create a website and display a set of elements positioned absolutely one on top of each other:
@@ -53,9 +30,9 @@ Create a website and show some Squares representing different flex aligment and 
 
 ## 2 - A basic website 
 Knowledge needed: [HTML, CSS]
-Create a folder named `exercise-2` and inside of this folder you should create at least this basic structure:
+Create this basic structure:
+
 ```
--exercise1
   - index.html
   - styles.css
   - main.js
@@ -75,7 +52,7 @@ Add [media queries](program/frontend/css.md) to make it responsive. It should be
 
 
 ## 3 - Javascript Exercises
-Create a `exercise-3` folder in your repository, inside this repository create a javascript file for each exercise.
+Create a javascript file for each exercise.
 
 ### String replacement
 
@@ -118,8 +95,6 @@ The website will have 3 squares, like the ones from Exercise 1. Once the user cl
 
 
 ## 5 - A todo list 
-
-Create a folder `exercise-5` in your assignment.
 knowledge needed: [HTML, CSS, JS]
 
 - Website: 
