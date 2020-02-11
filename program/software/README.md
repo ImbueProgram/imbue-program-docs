@@ -13,6 +13,7 @@ If you want to do some practice after learning your languages, go to [CodeWars](
 - [Loops and conditions](program/software/loops_conditions.md)
 - [Katas](program/software/katas.md)
 - [Git](program/software/git.md)
+- [TDD](program/software/tdd.md)
 
 ## General Knowledge
 - [Programming Methodologies](program/software/programming_methodologies.md)
